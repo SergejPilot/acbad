@@ -19,7 +19,7 @@ after_success:
   - cd public
   - git init
   - git config user.name "Travis-CI"
-  - git config user.email "travis@nodemeatspace.com"
+  - git config user.email "travis@omameier.net"
   - git add .
   - git commit -m "Deployed to Github Pages"
   - git push --force --quiet "git@github.com:jurkan/acbad.git" master:gh-pages
