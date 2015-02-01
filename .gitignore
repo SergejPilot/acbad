@@ -1,0 +1,5 @@
+# Unencrypted RSA key (for travis)
+id_rsa
+
+# Compiled public folder
+public
