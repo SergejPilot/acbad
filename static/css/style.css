@@ -99,6 +99,7 @@ nav .menu-icon:hover {
 }
 nav .menu-icon img {
   height: 40px;
+  width: 40px;
   margin-top: 5px;
 }
 nav .nav-seperator {
@@ -140,6 +141,7 @@ nav .nav-item:hover > a {
 }
 #logo_nav {
   height: 50px;
+  width: 54px;
   margin: 0px 10px 0px 15px;
   padding: 0px;
 }
