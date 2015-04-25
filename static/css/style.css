@@ -3,14 +3,72 @@
 html, body {
   height: 100%;
 }
+
+body {
+  /*background-color: #B2D7FB;*/
+  background-image: url("/img/pattern-6xc4.png");
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 1.4em;
+  color: rgba(0,0,0,0.5);
+
+  min-width: 175px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: #3C8CD9;
+  font-family: 'Roboto Slab';
+}
+
+#main {
+  position: relative;
+  /* Fallback background (very big resolution or @media not working) */
+  top: 50px;
+  left: 0px;
+  right: 0px;
+}
+
+main {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5em;
+  padding-right: 5em;
+  max-width: 42em;
+  min-width: 5em;
+}
+
+@media all and (max-width: 600px) {
+  main {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+}
+
+header {
+  height: 250px;
+  width: 100%;
+  background-image: url("/img/headertest.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+main h1:first-child {
+  position: absolute;
+  top: 130px;
+  white-space: nowrap;
+
+  color: #ECF5FF;
+}
+
 /* Navigation */
 
-#navigation {
+nav {
   position: fixed;
+  display: block;
   top: 0px;
   left: 0px;
   right: 0px;
   height: 50px;
+  min-width: 175px;
   z-index: 10;
   background: #B2D7FB;
   background-image: -webkit-linear-gradient(top, #B2D7FB, #5FA6EB);
@@ -19,23 +77,66 @@ html, body {
   background-image: -o-linear-gradient(top, #B2D7FB, #5FA6EB);
   background-image: linear-gradient(to bottom, #B2D7FB, #5FA6EB);
 }
-#navigation div {
+nav div {
   display: inline-block;
   color: #ECF5FF;
-  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Roboto Slab', Helvetica, sans-serif;
   font-size: 32px;
   line-height: 50px;
   vertical-align: middle;
 }
-#navigation .nav-item {
+nav .nav-item {
   float: right;
-  margin: 0px 15px;
+  padding: 0px 15px;
+
+  -webkit-transition: background 0.3s ease-out 0s;
+  -moz-transition: background 0.3s ease-out 0s;
+  -o-transition: background 0.3s ease-out 0s;
+  transition: background 0.3s ease-out 0s;
 }
-#navigation .nav-seperator {
+nav .menu-icon:hover {
+  height: 50px;
+}
+nav .menu-icon img {
+  height: 40px;
+  margin-top: 5px;
+}
+nav .nav-seperator {
   float: right;
   width: 1px;
   height: 100%;
   background-color: #ECF5FF;
+}
+nav .nav-item a {
+  color: #ECF5FF;
+  text-decoration: none;
+}
+nav .nav-item .nav-dropdown-container {
+  display: inline;
+  visibility: hidden;
+  position: absolute;
+  padding:0px;
+  margin-left: -15px;
+}
+nav .nav-item:hover {
+  background-image: -webkit-linear-gradient(top, #B2D7FB, #3C8CD9);
+  background-image: -moz-linear-gradient(top, #B2D7FB, #3C8CD9);
+  background-image: -ms-linear-gradient(top, #B2D7FB, #3C8CD9);
+  background-image: -o-linear-gradient(top, #B2D7FB, #3C8CD9);
+  background-image: linear-gradient(to bottom, #B2D7FB, #3C8CD9);
+}
+nav .nav-item:hover .nav-dropdown-container, nav .nav-dropdown-container:hover {
+  visibility: visible;
+}
+nav .nav-item .nav-dropdown-container .nav-dropdown-item {
+  display: block;
+  background-color: #3C8CD9;
+}
+nav .nav-dropdown-item {
+  padding: 0px 15px;
+}
+nav .nav-item:hover > a {
+  color: rgba(0,0,0,0.5);
 }
 #logo_nav {
   height: 50px;
@@ -56,24 +157,51 @@ span#logo_nav_cap_1 {
     display: none;
   }
 }
-@media all and (min-width: 1115px) {
+@media all and (min-width: 1185px) {
   span#logo_nav_cap_1 {
     display: inline-block;
   }
 }
-@media all and (min-width: 1050px) and (max-width: 1114px) {
+@media all and (min-width: 1125px) and (max-width: 1184px) {
   span#logo_nav_cap_2 {
     display: inline-block;
   }
 }
-@media all and (min-width: 925px) and (max-width: 1049px) {
+@media all and (min-width: 1015px) and (max-width: 1124px) {
   span#logo_nav_cap_3 {
     display: inline-block;
   }
 }
-@media all and (min-width: 851px) and (max-width: 924px) {
+@media all and (min-width: 910px) and (max-width: 1014px) {
   span#logo_nav_cap_4 {
     display: inline-block;
+  }
+}
+nav .menu-icon, nav .menu-icon+* {
+  display: none;
+}
+@media all and (max-width: 750px) {
+  #nav-item-ueberuns, #nav-item-ueberuns+* {
+    display: none;
+  }
+
+  nav .menu-icon, nav .menu-icon+* {
+    display: inline-block;
+  }
+}
+@media all and (max-width: 650px) {
+  #nav-item-mitmachen, #nav-item-mitmachen+* {
+    display: none;
+  }
+}
+@media all and (max-width: 445px) {
+  #nav-item-news, #nav-item-news+* {
+    display: none;
+  }
+}
+@media all and (max-width: 330px) {
+  #nav-item-kontakt, #nav-item-kontakt+* {
+    display: none;
   }
 }
 /* Landing page specific */
@@ -106,7 +234,7 @@ span#logo_nav_cap_1 {
 #landing-bg {
   position: absolute;
   /* Fallback background (very big resolution or @media not working) */
-  
+
   background-image: url("/img/segelflug_c_2560_1600.jpg");
   background-position: center;
   background-size: cover;
@@ -117,7 +245,7 @@ span#logo_nav_cap_1 {
   bottom: 0px;
 }
 #landing-bg #teaser {
-  font-family: Georgia, serif;
+  font-family: 'Slabo', serif;
   font-size: 40px;
   margin-top: 10%;
   margin-right: 10%;
@@ -126,7 +254,7 @@ span#logo_nav_cap_1 {
 }
 #landing-bg #teaser p span {
   color: black;
-  text-shadow: 0px 0px 3px #bbb, -1px -1px #bbb, 1px 1px #bbb;
+  /*text-shadow: 0px 0px 3px #bbb, -1px -1px #bbb, 1px 1px #bbb;*/
 }
 #landing-bg #entryButton {
   width: 500px;
@@ -147,10 +275,10 @@ span#logo_nav_cap_1 {
   border-radius: 28px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
-  font-family: Georgia, serif;
+  font-family: 'Slabo', serif;
   font-size: 40px;
   color: black;
-  text-shadow: 0px 0px 3px #bbb, -1px -1px #bbb, 1px 1px #bbb;
+  /*text-shadow: 0px 0px 3px #bbb, -1px -1px #bbb, 1px 1px #bbb;*/
 }
 #entryButton a:hover {
   background: #ECF5FF;

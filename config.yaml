@@ -1,0 +1,36 @@
+baseurl: "http://acbadtest.omameier.net/"
+languageCode: "de-de"
+title: "Aero-Club Baden-Baden e.V."
+
+params:
+  calltoaction: "/mitmachen/"
+
+menu:
+  main:
+    - Name: "Über uns"
+      Weight: -10
+      Identifier: "ueberuns"
+      Url: "/ueberuns/"
+    - Name: "Flugzeugpark"
+      Weight: 0
+      Identifier: "flugzeugpark"
+      Url: "/flugzeugpark/"
+      Parent: "ueberuns"
+    - Name: "Test"
+      Weight: 10
+      Identifier: "test"
+      Url: "/test/"
+      Parent: "ueberuns"
+
+    - Name: "Mitmachen"
+      Weight: -20
+      Identifier: "mitmachen"
+      Url: "/mitmachen/"
+    - Name: "News"
+      Weight: -30
+      Identifier: "news"
+      Url: "/news/"
+    - Name: "Kontakt"
+      Weight: -40
+      Identifier: "kontakt"
+      Url: "/kontakt/"
