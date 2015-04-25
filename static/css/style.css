@@ -5,8 +5,7 @@ html, body {
 }
 
 body {
-  /*background-color: #B2D7FB;*/
-  background-image: url("/img/pattern-6xc4.png");
+  background-color: #B2D7FB;
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 1.4em;
   color: rgba(0,0,0,0.5);
