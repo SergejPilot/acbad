@@ -1,0 +1,66 @@
+<style>
+/* Landing page specific */
+
+@media all and (max-device-width: 1920px) and (max-device-height: 1080px) {
+  #error-bg {
+    background-image: url("/img/pages/404/background_404_1920_1080.jpg") !important;
+  }
+}
+@media all and (max-device-width: 1366px) and (max-device-height: 768px) {
+  #error-bg {
+    background-image: linear-gradient(
+      rgba(0, 0, 1, 0.35),
+      rgba(0, 0, 1, 0.35)
+      ), url("/img/pages/404/background_404_1366_768.jpg") !important;
+  }
+}
+@media all and (max-device-width: 1280px) and (max-device-height: 1024px) {
+  #error-bg {
+    background-image: url("/img/pages/404/background_404_1280_1024.jpg") !important;
+  }
+}
+@media all and (max-device-width: 1024px) and (max-device-height: 768px) {
+  #error-bg {
+    background-image: url("/img/pages/404/background_404_1024_768.jpg") !important;
+  }
+}
+@media all and (max-device-width: 1280px) and (max-device-height: 800px) {
+  #error-bg {
+    background-image: url("/img/pages/404/background_404_1280_800.jpg") !important;
+  }
+}
+#error-bg {
+  position: absolute;
+  /* Fallback background (very big resolution or @media not working) */
+
+  background-image: linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)
+    ), url("/img/pages/404/background_404_2560_1600.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  min-height: 500px;
+  min-width: 700px;
+  top: 50px;
+  bottom: 0px;
+}
+#error-bg #error-description {
+  font-family: 'Slabo', serif;
+  font-size: 40px;
+  margin-top: 0px;
+  margin-right: 10%;
+  margin-left: 10%;
+  text-align: center;
+}
+#error-bg #error-description p span {
+  color: white;
+}
+#error-bg h1 {
+  font-size: 120px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+  color: white;
+}
+</style>

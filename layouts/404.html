@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  {{ partial "head.html" . }}
+
+  {{ partial "404style.html" . }}
+</head>
+<body>
+  {{ partial "navigation.html" . }}
+  <!-- 404 error page -->
+  <div id="error-bg">
+    <div id="error-description">
+      <h1>404</h1>
+      <p>
+        <span>Scheinbar sind Sie hier falsch gelandet!</span>
+      </p>
+    </div>
+  </div>
+  {{ partial "footer.html" . }}
