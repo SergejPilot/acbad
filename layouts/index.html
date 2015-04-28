@@ -1,18 +1,24 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  {{ partial "head.html" . }}
 
-<!-- This is the landing page -->
-<div id="landing-bg">
-  <div id="teaser">
-    <p>
-      <span>Unter die Erde kommen Sie von alleine.</span>
-    </p>
-    <p>
-      <span>In den Himmel nur, wenn Sie Initiative ergreifen.</span>
-    </p>
-    <p id="entryButton">
-      <a href="{{ .Site.Params.calltoaction }}">Mit uns abheben!</a>
-    </p>
+  {{ partial "landingstyle.html" . }}
+</head>
+<body>
+  {{ partial "navigation.html" . }}
+  <!-- This is the landing page -->
+  <div id="landing-bg">
+    <div id="teaser">
+      <p>
+        <span>Unter die Erde kommen Sie von alleine.</span>
+      </p>
+      <p>
+        <span>In den Himmel nur, wenn Sie Initiative ergreifen.</span>
+      </p>
+      <p id="entryButton">
+        <a href="{{ .Site.Params.calltoaction }}">Mit uns abheben!</a>
+      </p>
+    </div>
   </div>
-</div>
-
 {{ partial "footer.html" . }}
