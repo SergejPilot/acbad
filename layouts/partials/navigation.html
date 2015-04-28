@@ -17,6 +17,7 @@
   <div class="nav-item" id="nav-item-{{ .Identifier }}">
     <a href="{{ .Url }}">{{ .Name }}</a>
     {{ if .HasChildren }}
+    <br>
     <div class="nav-dropdown-container">
       {{ range .Children }}
       <div class="nav-dropdown-item">
