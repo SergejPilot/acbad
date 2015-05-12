@@ -21,7 +21,7 @@ Die Ausfahrt aus dem Kreisel ist klein mit Segelflugplatz beschildert.
 Der kleinen Straße folgen und am Ende links über die Holzbrücke abbiegen.
 Dann weiterfahren, bis die Hallen kommen.
 
-<div id="googlemapscontact" style="text-align: center;"><iframe width="800" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Aero-Club%20Baden-Baden%20e.V%2C%20Baden-Baden%2C%20Deutschland&key=AIzaSyBe4I9zS7_axo5xnjv44t3AgYAyfe73c-E"></iframe></div>
+<div id="googlemapscontact" style="text-align: center;"><iframe style="max-width: 800px; width: 100%;" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Aero-Club%20Baden-Baden%20e.V%2C%20Baden-Baden%2C%20Deutschland&key=AIzaSyBe4I9zS7_axo5xnjv44t3AgYAyfe73c-E"></iframe></div>
 
 Impressum
 ---------
