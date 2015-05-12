@@ -31,4 +31,4 @@ Am Kreithgraben 25
 76532 Baden-Baden
 
 1. Vorsitzender: [Axel Schulze](mailto:1Vorsitzender@acbaden.de) (Tel.: 07221/73635)
-2. Vorsitzender: [Jörg Zwosta](mailto:1Vorsitzender@acbaden.de) (Tel.: 07221/63321)
+2. Vorsitzender: [Jörg Zwosta](mailto:2Vorsitzender@acbaden.de) (Tel.: 07221/63321)
