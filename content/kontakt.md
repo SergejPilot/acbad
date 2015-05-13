@@ -23,12 +23,22 @@ Dann weiterfahren, bis die Hallen kommen.
 
 <div id="googlemapscontact" style="text-align: center;"><iframe style="max-width: 800px; width: 100%;" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Aero-Club%20Baden-Baden%20e.V%2C%20Baden-Baden%2C%20Deutschland&key=AIzaSyBe4I9zS7_axo5xnjv44t3AgYAyfe73c-E"></iframe></div>
 
-Impressum
+Anschrift
 ---------
 
 Aero-Club Baden-Baden e.V.  
 Am Kreithgraben 25  
 76532 Baden-Baden
 
+### Vertreten durch:
+
 1. Vorsitzender: [Axel Schulze](mailto:1Vorsitzender@acbaden.de) (Tel.: 07221/73635)
 2. Vorsitzender: [Jörg Zwosta](mailto:2Vorsitzender@acbaden.de) (Tel.: 07221/63321)
+
+USt-IdNr.: DE143460361  
+Eingetragen im Vereinsregister. Registergericht: Amtsgericht Baden-Baden, Nummer VR 31
+
+### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:  
+Axel Schulze (Anschrift wie oben)
+
+**Design der Website von Felix Stadthaus**
