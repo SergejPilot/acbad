@@ -8,7 +8,7 @@ params:
 menu:
   main:
     - Name: "Über uns"
-      Weight: -10
+      Weight: 10
       Identifier: "ueberuns"
       Url: "/ueberuns/"
     - Name: "Flugzeugpark"
@@ -23,14 +23,20 @@ menu:
       Parent: "ueberuns"
 
     - Name: "Mitmachen"
-      Weight: -20
+      Weight: 20
       Identifier: "mitmachen"
       Url: "/mitmachen/"
+    - Name: "Preise"
+      Weight: 0
+      Identifier: "preise"
+      Url: "/preise/"
+      Parent: "mitmachen"
+
     - Name: "News"
-      Weight: -30
+      Weight: 30
       Identifier: "news"
       Url: "/news/"
     - Name: "Kontakt"
-      Weight: -40
+      Weight: 40
       Identifier: "kontakt"
       Url: "/kontakt/"
