@@ -224,11 +224,11 @@ nav .nav-item:hover > a {
   display: none;
 }
 #nav:target div.nav-menu-items {
-  width: 200px;
+  width: 300px;
   height: auto;
   max-height: 350px;
   background-color: #3C8CD9;
-  overflow: scroll;
+  overflow-y: auto;
 }
 /*#nav:target div {
   font-size: 20px;
@@ -293,7 +293,7 @@ span#logo_nav_cap_1 {
     display: inline-block;
   }
 }
-nav .menu-icon, nav .menu-icon+* {
+nav .menu-icon {
   display: none;
 }
 @media all and (max-width: 755px) {
