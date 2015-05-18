@@ -30,7 +30,7 @@ Fördermitgliedschaft
 --------------------
 
 Für einen frei wählbaren Förderbeitrag von mindestens 25,00 € im Jahr können sie Fördermitglied werden.
-Als Fördermitglied können sie (sowie Ehemann/-frau oder Kinder) mit Piloten aus dem Verein zu den günstigen Mitgliederpreisen mitfliegen (im Folgenden inkl. 5€ Landegebühr):  
+Als Fördermitglied können sie (sowie Ehemann/-frau oder Kinder) mit Piloten aus dem Verein zu den günstigen Mitgliederpreisen mitfliegen (im Folgenden inkl. 5,00 € Landegebühr):  
 
 | Startart         |    Preis |
 | :--------------- | -------: |
