@@ -116,6 +116,19 @@ main h1:first-child {
   white-space: nowrap;
 
   color: #ECF5FF;
+
+  /*background-color: rgba(0,0,0,0.4);*/
+  /*margin-left: -100%;
+  padding-left: 100%;*/
+  /*padding-left: 0.5em;
+  margin-left: -0.5em;
+
+  padding-right: 0.5em;
+  padding-top: 0.3em;
+  margin-top: 0.3em;
+  padding-bottom: 0.3em;*/
+
+  text-shadow: rgba(0,0,0,0.5) 0 0 3px;
 }
 
 /* Navigation */
