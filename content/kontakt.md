@@ -3,6 +3,7 @@ date: "2015-05-13T00:12:20+02:00"
 draft: false
 title: "Kontakt"
 description: "Kontaktdaten des Aero-Club Baden-Baden e.V. (E-Mail,  Telefon, Anschrift)"
+HeaderImgUrl: "/img/header/header_kontakt.jpg"
 ---
 
 Haben sie Fragen oder wollen mehr erfahren? Kommen sie ins persönliche Gespräch mit uns:
