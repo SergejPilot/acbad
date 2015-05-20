@@ -1,11 +1,8 @@
 ---
 date: "2015-05-13T14:40:50+02:00"
 draft: false
-title: "preise"
+title: "Preise"
 ---
-
-Preise
-======
 
 Segelfliegen im Verein ist günstiger, als viele denken. Im Folgenden finden sie einen Überblick über unsere Preise für [Schnupperflüge]({{< relref "preise.md#schnupperfliegen" >}}), [Fördermitglieder]({{< relref "preise.md#fördermitgliedschaft" >}}) und die [Vereinsmitgliedschaft]({{< relref "preise.md#vollmitgliedschaft" >}}).
 

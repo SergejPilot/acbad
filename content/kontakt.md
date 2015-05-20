@@ -1,11 +1,8 @@
 ---
 date: "2015-05-13T00:12:20+02:00"
 draft: false
-title: Kontakt
+title: "Kontakt"
 ---
-
-Kontakt
-=======
 
 Haben sie Fragen oder wollen mehr erfahren? Kommen sie ins persönliche Gespräch mit uns:
 

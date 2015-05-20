@@ -5,6 +5,9 @@ title: "Aero-Club Baden-Baden e.V."
 params:
   calltoaction: "/mitmachen/"
 
+permalinks:
+  post: /:year/:month/:slug/
+
 menu:
   main:
     - Name: "Über uns"
