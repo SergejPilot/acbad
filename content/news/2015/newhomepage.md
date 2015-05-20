@@ -1,14 +1,21 @@
 ---
 date: "2015-05-19T21:17:19+02:00"
 draft: false
-title: "Test post"
+title: "Neue Homepage für Aero-Club"
+slug: "neue-homepage-fuer-aero-club"
+author: "Felix Stadthaus"
 HeaderImgUrl: "/img/header/header_landing3278.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<!--more-->
-At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
+Dieses Jahr steht beim Aero-Club Baden-Baden unter dem Stern "neue Öffentlichkeitspräsentation".
+Zu diesem Zweck werden bzw. wurden die schon etwas angestaubte Homepage, der Flyer und unsere am Platz aufgestellten Infotafeln erneuert
+sowie allgemein die Kontaktaufnahme mit dem Verein erleichtert.<!--more-->
 
-Unterüberschrift
-----------------
+Wir hoffen, dass über die neue Homepage und die neuen Infomaterialien die relevanten Informationen schneller und einfacher gefunden werden können.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Neue Telefonnummer
+------------------
+
+Desweiteren hat der Aero-Club jetzt eine neue Telefonnummer (siehe [Kontakt]({{< relref "kontakt.md" >}})).
+
+Bei dieser werden Anrufer anders als bisher nicht zum Vereinsheim (und damit meist zum Wirt der Gaststätte "Looping"), sondern direkt zu ausgewählten Vereinsmitgliedern durchgestellt, die viel besser auf Anfragen reagieren können.
