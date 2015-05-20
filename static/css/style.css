@@ -112,8 +112,8 @@ header {
 
 main > h1:first-child {
   position: absolute;
-  top: 130px;
-  white-space: nowrap;
+  top: 120px;
+  line-height: 1em;
 
   color: #ECF5FF;
 
