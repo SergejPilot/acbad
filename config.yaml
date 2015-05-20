@@ -6,7 +6,7 @@ params:
   calltoaction: "/mitmachen/"
 
 permalinks:
-  post: /:slug/
+  news: /:slug/
 
 menu:
   main:
