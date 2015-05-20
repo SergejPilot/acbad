@@ -2,7 +2,7 @@
 date: "2015-05-19T21:17:19+02:00"
 draft: false
 title: "Neue Homepage für Aero-Club"
-slug: "neue-homepage-fuer-aero-club"
+slug: "neue-homepage-aero-club"
 author: "Felix Stadthaus"
 HeaderImgUrl: "/img/header/header_landing3278.jpg"
 ---
