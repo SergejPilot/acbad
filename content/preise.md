@@ -19,9 +19,9 @@ Sie wollen erstmal nur unverbindlich ausprobieren? Dann ist ein Schnupperflug od
 | Schnupperflug 60 min          | 110,00 € |
 | Schnupperkurs (min. 3 Starts) |  90,00 € |
 
-Der Schnupperkurs umfasst 3 F-Schlepps oder 6 Windenstarts (oder eine Mischung aus beidem) mit theoretischer und praktischer Einweisung.
+Der Schnupperkurs umfasst 3 Flugzeug-Schlepps oder 6 Windenstarts (oder eine Mischung aus beidem) mit theoretischer und praktischer Einweisung.
 
-Bei den 30 min bzw. 60 min Flügen können wir die Flugzeit leider nicht immer auf die Minute genau garantieren. Bei schlechten thermischen Wetterbedingungen wird daher ggf. als Ausgleich ein zweiter Start, oft ein etwas höherer F-Schlepp für längere Flugdauer, ohne Aufpreis durchgeführt.
+Bei den 30 min bzw. 60 min Flügen können wir die Flugzeit leider nicht immer auf die Minute genau garantieren. Bei schlechten thermischen Wetterbedingungen wird daher ggf. als Ausgleich ein zweiter Start, oft ein etwas höherer Flugzeug-Schlepp für längere Flugdauer, ohne Aufpreis durchgeführt.
 
 Ein Schnupperflug lässt sich auch verschenken - fragen sie einfach in der Gaststätte Looping am Flugplatz nach Gutscheinen.
 
@@ -31,14 +31,14 @@ Fördermitgliedschaft
 Für einen frei wählbaren Förderbeitrag von mindestens 25,00 € im Jahr können sie Fördermitglied werden.
 Als Fördermitglied können sie (sowie Ehemann/-frau oder Kinder) mit Piloten aus dem Verein zu den günstigen Mitgliederpreisen mitfliegen (im Folgenden inkl. 5,00 € Landegebühr):  
 
-| Startart         |    Preis |
-| :--------------- | -------: |
-| Windenstart      |  10,00 € |
-| F-Schlepp 600m   |  16,00 € |
-| F-Schlepp 800m   |  20,00 € |
-| F-Schlepp 1000m  |  27,00 € |
+| Startart                |    Preis |
+| :---------------------- | -------: |
+| Windenstart             |  10,00 € |
+| Flugzeug-Schlepp 600m   |  16,00 € |
+| Flugzeug-Schlepp 800m   |  20,00 € |
+| Flugzeug-Schlepp 1000m  |  27,00 € |
 
-Die Flugzeit hängt dabei - wie beim Segelfliegen üblich - lediglich vom Wetter, der Lust und den Fähigkeiten des Piloten ab!
+Die Flugzeit hängt dabei - wie beim Segelfliegen üblich - lediglich vom Wetter, und der Lust ab!
 
 Vollmitgliedschaft
 ------------------
@@ -55,12 +55,12 @@ Wird man Neumitglied, muss man noch eine Aufnahmegebühr entrichten sowie min. e
 
 Eine Zahlung pro Flugstunde fällt **nicht** an, die Kosten pro Start halten sich dabei eher gering:
 
-| Startart          | Preis   |
-| :---------------- | ------: |
-| Windenstart       |  5,50 € |
-| F-Schlepp 400m    |  9,00 € |
-| F-Schlepp 600m    | 11,00 € |
-| F-Schlepp 800m    | 15,00 € |
-| F-Schlepp 1000m   | 22,00 € |
+| Startart                 | Preis   |
+| :----------------------- | ------: |
+| Windenstart              |  5,50 € |
+| Flugzeug-Schlepp 400m    |  9,00 € |
+| Flugzeug-Schlepp 600m    | 11,00 € |
+| Flugzeug-Schlepp 800m    | 15,00 € |
+| Flugzeug-Schlepp 1000m   | 22,00 € |
 
-Um die geringen Kosten zu ermöglichen, müssen alle mitarbeiten. Wer das Minimum von 65 Arbeitsstunden im Jahr nicht erfüllt, muss eine Ausgleichszahlung leisten.
+Um die geringen Kosten zu ermöglichen, arbeiten alle mit. Wer das Minimum von 65 Arbeitsstunden im Jahr nicht erfüllt, leistet eine Ausgleichszahlung.
