@@ -25,6 +25,42 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'Roboto Slab';
 }
 
+.imagebox {
+  clear: both;
+  width: 50%;
+  margin: 0.5em auto;
+
+  padding: 2px;
+  border: 1px solid rgba(0,0,0,0.3);
+}
+
+.imagebox div.attribution {
+  text-align: right;
+  font-size: 0.8em;
+}
+
+.imagebox div.caption {
+  font-style: italic;
+}
+
+.imagebox img {
+  width: 100%;
+}
+
+.imagebox.floatright, .imagebox.floatleft {
+  width: 40%;
+}
+
+.imagebox.floatright {
+  float: right;
+  margin-left: 1em;
+}
+
+.imagebox.floatleft {
+  float: left;
+  margin-right: 1em;
+}
+
 table {
   margin-left: auto;
   margin-right: auto;

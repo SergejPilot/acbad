@@ -1,0 +1,9 @@
+<figure class="imagebox{{ with .Get "class" }} {{ . }}{{ end }}">
+  <img src="{{ .Get "path" }}"{{ with .Get "alt" }} alt="{{ . }}"{{ end }}/>
+  {{ with .Get "caption" }}
+    <div class="caption">{{ . }}</div>
+  {{ end }}
+  {{ with .Get "attribution" }}
+    <div class="attribution">Bild von {{ . }}</div>
+  {{ end }}
+</figure>
