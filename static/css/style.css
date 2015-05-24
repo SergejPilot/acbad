@@ -27,11 +27,11 @@ h1,h2,h3,h4,h5,h6 {
 
 .imagebox {
   clear: both;
-  width: 50%;
+  width: 80%;
   margin: 0.5em auto;
 
   padding: 2px;
-  border: 1px solid rgba(0,0,0,0.3);
+  /*border: 1px solid rgba(0,0,0,0.3);*/
 }
 
 .imagebox div.attribution {
