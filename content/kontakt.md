@@ -8,7 +8,7 @@ HeaderImgUrl: "/img/header/header_kontakt.jpg"
 
 Haben sie Fragen oder wollen mehr erfahren? Kommen sie ins persönliche Gespräch mit uns:
 
-* per E-Mail unter <kontakt@acbaden.de>
+* per E-Mail unter <info@acbaden.de>
 * per Telefon unter 07221/9019099.
 
 So finden sie uns
