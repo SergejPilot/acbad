@@ -8,7 +8,7 @@ HeaderImgUrl: "/img/header/header_kontakt.jpg"
 
 Haben sie Fragen oder wollen mehr erfahren? Kommen sie ins persönliche Gespräch mit uns:
 
-* per E-Mail unter <info@acbaden.de>
+* per E-Mail unter <info@aero-club.eu>
 * per Telefon unter 07221/9019099.
 
 So finden sie uns
@@ -31,8 +31,8 @@ Am Kreithgraben 25
 
 ### Vertreten durch:
 
-1. Vorsitzender: [Axel Schulze](mailto:1Vorsitzender@acbaden.de) (Tel.: 07221/72245)
-2. Vorsitzender: [Jörg Zwosta](mailto:2Vorsitzender@acbaden.de) (Tel.: 07221/63321)
+1. Vorsitzender: [Axel Schulze](mailto:vs1@aero-club.eu) (Tel.: 07221/72245)
+2. Vorsitzender: [Jörg Zwosta](mailto:vs2@aero-club.eu) (Tel.: 07221/63321)
 
 USt-IdNr.: DE143460361  
 Eingetragen im Vereinsregister. Registergericht: Amtsgericht Baden-Baden, Nummer VR 31
