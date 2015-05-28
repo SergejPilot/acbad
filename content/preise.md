@@ -14,7 +14,7 @@ Sie wollen erstmal nur unverbindlich ausprobieren? Dann ist ein Schnupperflug od
 
 | Leistung                      |    Preis |
 | :---------------------------- | -------: |
-| Schnupperflug Winde           |  30,00 € |
+| Schnupperflug Windenstart     |  30,00 € |
 | Schnupperflug 30 min          |  60,00 € |
 | Schnupperflug 60 min          | 110,00 € |
 | Schnupperkurs (min. 3 Starts) |  90,00 € |
@@ -38,14 +38,14 @@ Als Fördermitglied können sie (sowie Ehemann/-frau oder Kinder) mit Piloten au
 | Flugzeug-Schlepp 800m   |  20,00 € |
 | Flugzeug-Schlepp 1000m  |  27,00 € |
 
-Die Flugzeit hängt dabei - wie beim Segelfliegen üblich - lediglich vom Wetter, und der Lust ab!
+Die Flugzeit hängt dabei - wie beim Segelfliegen üblich - lediglich vom Wetter und der Lust ab!
 
 Vollmitgliedschaft
 ------------------
 
 Als Mitglied zahlt man einen gewissen fixen jährlichen Betrag zuzüglich Kosten für die einzelnen Starts.
 
-Wird man Neumitglied, muss man noch eine Aufnahmegebühr entrichten sowie min. ein Flugzeug (meist der Schulungsdoppelsitzer, eine Ask-21) "ablösen" - d.h. man zahlt einen bestimmten Betrag und darf dieses Flugzeug dann in Zukunft im Verein unbegrenzt nutzen.
+Wird man Neumitglied, entrichtet man noch eine Aufnahmegebühr sowie löst min. ein Flugzeug (meist der Schulungsdoppelsitzer, eine Ask-21) ab - d.h. man zahlt einen bestimmten Betrag und darf dieses Flugzeug dann in Zukunft im Verein unbegrenzt nutzen.
 
 | Beschreibung              | Jugendliche (unter 21) | Erwachsene |
 | :------------------------ | :--------------------: | :--------: |
