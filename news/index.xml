@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Aero-Club Baden-Baden e.V.</title>
+    <link>http://aero-club.eu/news/</link>
+    <description>Recent content in News on Aero-Club Baden-Baden e.V.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 19 May 2015 21:17:19 +0200</lastBuildDate>
+    <atom:link href="http://aero-club.eu/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Neue Homepage für Aero-Club</title>
+      <link>http://aero-club.eu/neue-homepage-aero-club/</link>
+      <pubDate>Tue, 19 May 2015 21:17:19 +0200</pubDate>
+      
+      <guid>http://aero-club.eu/neue-homepage-aero-club/</guid>
+      <description>
+
+&lt;p&gt;Dieses Jahr steht beim Aero-Club Baden-Baden unter dem Stern &amp;ldquo;neue Öffentlichkeitspräsentation&amp;rdquo;.
+Zu diesem Zweck werden bzw. wurden die schon etwas angestaubte Homepage, der Flyer und unsere am Platz aufgestellten Infotafeln erneuert
+sowie allgemein die Kontaktaufnahme mit dem Verein erleichtert.&lt;/p&gt;
+
+&lt;p&gt;Wir hoffen, dass über die neue Homepage und die neuen Infomaterialien die relevanten Informationen schneller und einfacher gefunden werden können.&lt;/p&gt;
+
+&lt;h2 id=&#34;neue-telefonnummer:d6f1cf02b10001a119de27e7a1e3ce25&#34;&gt;Neue Telefonnummer&lt;/h2&gt;
+
+&lt;p&gt;Desweiteren hat der Aero-Club jetzt eine neue Telefonnummer (siehe &lt;a href=&#34;http://aero-club.eu/kontakt/&#34;&gt;Kontakt&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Bei dieser werden Anrufer anders als bisher nicht zum Vereinsheim (und damit meist zum Wirt der Gaststätte &amp;ldquo;Looping&amp;rdquo;), sondern direkt zu ausgewählten Vereinsmitgliedern durchgestellt, die viel besser auf Anfragen reagieren können.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
