@@ -7,19 +7,15 @@ HeaderImgUrl: "/img/header/header_preparingdgforstart.jpg"
 ---
 Sie möchten auch einmal die Welt von oben kennenlernen? Kein Problem!
 
-Ob nur mal [reinschnuppern]({{< relref "mitmachen.md#schnupperfliegen" >}}) oder [Mitglied werden]({{ relref "mitmachen.md#mitgliedschaft" }}), wir freuen uns schon auf Sie!
+Ob nur mal [reinschnuppern]({{< relref "preise.md#schnupperfliegen" >}}) oder [Mitglied werden]({{< relref "mitmachen.md#mitgliedschaft" >}}), wir freuen uns schon auf Sie!
 
-{{< image path="/img/pages/mitmachen/merkurgleitschirme.jpg" caption="Der Merkur in Baden-Baden von oben." alt="Merkur von oben" >}}
-
-Schnupperfliegen
-----------------
-
-* Schnupperflüge
-* Fördermitgliedschaft
-* Mitglied werden
+{{< image path="/img/pages/mitmachen/startflaechehalten.jpg" caption="Flugschüler direkt vor dem Start" alt="Startendes Flugzeug" >}}
 
 Mitgliedschaft
 --------------
+
+Mitglied werden kann bei uns (fast) jeder, egal ob jung (ab 14 Jahren) oder alt, flugerfahren oder unerfahren.
+Unsere ehrenamtlichen Fluglehrer ermöglichen eine preiswerte [Segelflugausbildung](/404.html) von null ab bis zum Pilotenschein.
 
 {{< image path="/img/logo_farbig.jpg" attribution="Arno Nymous" caption="Dies ist eine Test-Bildunterschrift." alt="Testbild" >}}
 
