@@ -13,33 +13,33 @@ menu:
     - Name: "Über uns"
       Weight: 10
       Identifier: "ueberuns"
-      Url: "/ueberuns/"
+      URL: "/ueberuns/"
     - Name: "Flugzeugpark"
       Weight: 0
       Identifier: "flugzeugpark"
-      Url: "/flugzeugpark/"
+      URL: "/flugzeugpark/"
       Parent: "ueberuns"
     - Name: "Test"
       Weight: 10
       Identifier: "test"
-      Url: "/test/"
+      URL: "/test/"
       Parent: "ueberuns"
 
     - Name: "Mitmachen"
       Weight: 20
       Identifier: "mitmachen"
-      Url: "/mitmachen/"
+      URL: "/mitmachen/"
     - Name: "Preise"
       Weight: 0
       Identifier: "preise"
-      Url: "/preise/"
+      URL: "/preise/"
       Parent: "mitmachen"
 
     - Name: "News"
       Weight: 30
       Identifier: "news"
-      Url: "/news/"
+      URL: "/news/"
     - Name: "Kontakt"
       Weight: 40
       Identifier: "kontakt"
-      Url: "/kontakt/"
+      URL: "/kontakt/"
