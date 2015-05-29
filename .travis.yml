@@ -3,8 +3,14 @@ language: go
 go:
   - 1.4.1
 
+env:
+  global:
+  - secure: NlZ0Uh9vyrSvIhwZ+pDbXo5HffTNiRiUpjhfvZVrM42PIPVl4mdEOJHAIv1N+HDLoXxBX9a0Kmc1r5DrPC+4NxMPZD2Ey8mpXWwae1x+3yWwxPOcipac8/tQXZtHoScxJfVIcf8zOvA7zRb4PAzTn+s/wjuXPkkPyZX5QUp2Tqk=
+  - secure: DQlHjUcDuhIWW4R8C4R4fvsAeE37G1U64oate9zzdjb9NoYXLG7w2ATLBtkFUMfp7MYITj0Cs0hYBDnlkePvox9/762Cqsdq7CUkOWiINAnjMP2isbd+/UCBP7W28RuyVUNcuoxyPvjcIaBGyqDB71lZvIYsYJeDU+GAMCqXdXI=
+
 before_install:
-  - openssl aes-256-cbc -K $encrypted_6193e035b232_key -iv $encrypted_6193e035b232_iv -in .travis/id_rsa.enc -out .travis/id_rsa -d
+  - sudo apt-get update -qq
+  - sudo apt-get install -y lftp
 
 install:
   - go get github.com/spf13/hugo
@@ -12,14 +18,4 @@ install:
 script: hugo
 
 after_success:
-  - eval $(ssh-agent)
-  - chmod 600 .travis/id_rsa
-  - ssh-add .travis/id_rsa
-  - cp CNAME public/CNAME
-  - cd public
-  - git init
-  - git config user.name "Travis-CI"
-  - git config user.email "travis@omameier.net"
-  - git add .
-  - git commit -m "Deployed to Github Pages"
-  - git push --force --quiet "git@github.com:jurkan/acbad.git" master:gh-pages
+  - .travis/upload.sh "$USERNAME" "$PASSWORD"
