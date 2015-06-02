@@ -19,10 +19,10 @@ menu:
       Identifier: "flugzeugpark"
       URL: "/flugzeugpark/"
       Parent: "ueberuns"
-    - Name: "Test"
+    - Name: "Gaststätte"
       Weight: 10
-      Identifier: "test"
-      URL: "/test/"
+      Identifier: "looping"
+      URL: "/looping/"
       Parent: "ueberuns"
 
     - Name: "Mitmachen"
