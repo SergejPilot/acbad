@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  {{ partial "head.html" . }}
+
+  {{ partial "flugzeugparkstyle.html" . }}
+</head>
+<body>
+  {{ partial "navigation.html" . }}
+<div id="main">
+  <header>
+  </header>
+  <main><!-- /img/header/header_flugzeugpark.jpg -->
+    <h1>Flugzeugpark</h1>
+    <p>Zur Zeit stehen Mitgliedern des Aero-Club Baden-Baden 6 moderne Kunststoff-Segelflugzeuge (3 Einsitzer und 3 Doppelsitzer) sowie ein Motorsegler und 2 Motorflugzeuge zur Verfügung.</p>
+    <p>Im Folgenden ein kurzer Überblick über unseren Flugzeugpark:</p>
+    <div id="flugzeugpark-box">
+    {{ range .Data.Pages }}
+        {{ .Render "summary" }}
+    {{ end }}
+    </div>
+  </main>
+</div>
+{{ partial "footer.html" . }}
