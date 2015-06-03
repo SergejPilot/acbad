@@ -9,7 +9,7 @@ HeaderImgUrl: "/img/header/header_kontakt.jpg"
 Haben sie Fragen oder wollen mehr erfahren? Kommen sie ins persönliche Gespräch mit uns:
 
 * per E-Mail unter <info@aero-club.eu>
-* per Telefon unter 07221/9019099.
+* per Telefon unter [+49 (7221) 90 190 99](tel:+4972219019099).
 
 So finden sie uns
 -------
@@ -31,8 +31,8 @@ Am Kreithgraben 25
 
 ### Vertreten durch:
 
-1. Vorsitzender: [Axel Schulze](mailto:vs1@aero-club.eu) (Tel.: 07221/72245)
-2. Vorsitzender: [Jörg Zwosta](mailto:vs2@aero-club.eu) (Tel.: 07221/63321)
+1. Vorsitzender: [Axel Schulze](mailto:vs1@aero-club.eu) (Tel.: [+49 (7221) 7 22 45](tel:+49722172245))
+2. Vorsitzender: [Jörg Zwosta](mailto:vs2@aero-club.eu) (Tel.: [+49 (7221) 6 33 21](tel:+49722163321))
 
 USt-IdNr.: DE143460361  
 Eingetragen im Vereinsregister. Registergericht: Amtsgericht Baden-Baden, Nummer VR 31
