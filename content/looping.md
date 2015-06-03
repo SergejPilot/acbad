@@ -5,7 +5,7 @@ title: "Gaststätte Looping"
 ---
 Die direkt neben unserer Flugzeughalle gelegene "Gaststätte Looping" bietet sich an, um nach dem Flugbetrieb oder als Ziel eines kleinen Tagesausflugs eine Pizza zu genießen.
 
-Reservierungen und Kontaktaufnahme unter 07221/61616.
+Reservierungen und Kontaktaufnahme unter [+49 (7221) 61 61 6](tel:+49722161616).
 
 Öffnungszeiten
 --------------
