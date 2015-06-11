@@ -4,10 +4,15 @@ draft: false
 title: "Über uns"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Der Aero-Club Baden-Baden e.V. ist ein gemeinnütziger Verein zur Ausübung des Segelflug- und Motorflugsports.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Wir ermöglichen die sowohl die Ausbildung zum Segelflug- oder Motorseglerschein als auch [Schnupperflüge]({{< relref "preise.md#schnupperfliegen" >}}) über Baden-Baden und der Region, um einen Eindruck von der Faszination des Fliegens zu bekommen.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Hier fliegen wir
+----------------
+Jedes Jahr, hauptsächlich von Ende März bis Anfang Oktober, fliegen wir bei schönem Wetter am Sonderlandeplatz Baden-Oos.
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer.
+{{< image path="/img/pages/ueberuns/flugplatz.jpg" caption="Der Sonderlandeplatz Baden-Oos" alt="Flugplatz Baden-Oos" >}}
+
+Zu finden sind wir hier vor allem an Wochenenden und Feiertagen, bei besonders schönem Flugwetter aber auch öfter mal unter der Woche.
+[Kommen sie einfach vorbei]({{< relref "kontakt.md#so-finden-sie-uns" >}}) oder [kontaktieren]({{< relref "kontakt.md" >}}) sie uns!
