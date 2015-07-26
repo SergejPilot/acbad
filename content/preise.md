@@ -2,7 +2,7 @@
 date: "2015-05-13T14:40:50+02:00"
 draft: false
 title: "Preise"
-description: "Preisliste des Aero-Club Baden-Baden e.V. für Schnupperflüge, Fördermitgliedschaft und Vereinsmitgliedschaft"
+description: "Preisliste des Aero-Club Baden-Baden e.V. für Schnupperflüge, Fördermitgliedschaft und Vereinsmitgliedschaft."
 HeaderImgUrl: "/img/header/header_fschlepp3278.jpg"
 ---
 
