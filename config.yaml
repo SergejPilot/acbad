@@ -4,6 +4,7 @@ title: "Aero-Club Baden-Baden e.V."
 
 params:
   calltoaction: "/mitmachen/"
+  description: "Die offizielle Website des Segelflug und Luftsportvereins Aero-Club Baden-Baden e.V."
 
 permalinks:
   news: /:slug/

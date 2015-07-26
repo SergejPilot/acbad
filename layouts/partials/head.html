@@ -1,7 +1,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="language" content="DE">
+{{ if .Description }}
 <meta name="description" content="{{ .Description }}" />
+{{ else }}
+<meta name="description" content="{{ .Site.Params.description }}" />
+{{ end }}
 {{ .Hugo.Generator }}
 
 <title>{{ .Title }}{{ if not (eq .Site.Title .Title) }} - {{ .Site.Title }} {{ end }}</title>
