@@ -15,7 +15,7 @@ Mitgliedschaft
 --------------
 
 Mitglied werden kann bei uns (fast) jeder, egal ob jung (ab 14 Jahren) oder alt, flugerfahren oder unerfahren.
-Unsere ehrenamtlichen Fluglehrer ermöglichen eine preiswerte [Segelflugausbildung](/404.html) von null ab bis zum Pilotenschein.
+Unsere ehrenamtlichen Fluglehrer ermöglichen eine preiswerte [Segelflugausbildung]({{< relref "ausbildung.md">}}) von null ab bis zum Pilotenschein.
 
 <!--{{< image path="/img/logo_farbig.jpg" attribution="Arno Nymous" caption="Dies ist eine Test-Bildunterschrift." alt="Testbild" >}}
 
