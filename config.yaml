@@ -29,8 +29,13 @@ menu:
       Weight: 20
       Identifier: "mitmachen"
       URL: "/mitmachen/"
-    - Name: "Preise"
+    - Name: "Ausbildung"
       Weight: 0
+      Identifier: "ausbildung"
+      URL: "/ausbildung/"
+      Parent: "mitmachen"
+    - Name: "Preise"
+      Weight: 10
       Identifier: "preise"
       URL: "/preise/"
       Parent: "mitmachen"

@@ -7,7 +7,7 @@ HeaderImgUrl: "/img/header/header_landing3278.jpg"
 
 Der Aero-Club Baden-Baden e.V. ist ein gemeinnütziger Verein zur Ausübung des Segelflug- und Motorflugsports.
 
-Wir ermöglichen die sowohl die Ausbildung zum Segelflug- oder Motorseglerschein als auch [Schnupperflüge]({{< relref "preise.md#schnupperfliegen" >}}) über Baden-Baden und der Region, um einen Eindruck von der Faszination des Fliegens zu bekommen.
+Wir ermöglichen die sowohl die [Ausbildung]({{< relref "ausbildung.md">}}) zum Segelflug- oder Motorseglerschein als auch [Schnupperflüge]({{< relref "preise.md#schnupperfliegen" >}}) über Baden-Baden und der Region, um einen Eindruck von der Faszination des Fliegens zu bekommen.
 
 Hier fliegen wir
 ----------------
