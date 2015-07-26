@@ -2,7 +2,7 @@
 date: "2015-05-24T00:41:50+02:00"
 draft: false
 title: "Mitmachen"
-description: "Preisliste des Aero-Club Baden-Baden e.V. für Schnupperflüge, Fördermitgliedschaft und Vereinsmitgliedschaft"
+description: "Informationen über die Mitgliedschaft und Flugausbildung sowie über Schnupperlüge beim Aero-Club Baden-Baden e.V."
 HeaderImgUrl: "/img/header/header_preparingdgforstart.jpg"
 ---
 Sie möchten auch einmal die Welt von oben kennenlernen? Kein Problem!
