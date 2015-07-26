@@ -3,6 +3,7 @@ date: "2015-01-25T18:58:22+01:00"
 draft: false
 title: "Über uns"
 HeaderImgUrl: "/img/header/header_landing3278.jpg"
+description: "Der Aero-Club Baden-Baden e.V. ist ein gemeinnütziger Verein zur Ausübung des Segelflug- und Motorflugsports. Hier finden sie mehr Informationen zu uns."
 ---
 
 Der Aero-Club Baden-Baden e.V. ist ein gemeinnütziger Verein zur Ausübung des Segelflug- und Motorflugsports.
