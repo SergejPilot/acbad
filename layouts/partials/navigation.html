@@ -13,13 +13,13 @@
     <div class="nav-item menu-icon" id="nav-item-menu">
       <a href="#" title="Verstecke Menü"><img src="/img/menuicon.svg"></a>
     </div><div class="nav-seperator"></div>{{ range .Site.Menus.main }}<div class="nav-item" id="nav-item-{{ .Identifier }}">
-      <a href="{{ .Url }}">{{ .Name }}</a>
+      <a href="{{ .URL }}">{{ .Name }}</a>
       {{ if .HasChildren }}
       <br>
       <div class="nav-dropdown-container">
         {{ range .Children }}
         <div class="nav-dropdown-item">
-          <a href="{{ .Url }}">{{ .Name }}</a>
+          <a href="{{ .URL }}">{{ .Name }}</a>
         </div>
         {{ end }}
       </div>
