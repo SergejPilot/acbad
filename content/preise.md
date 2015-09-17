@@ -45,12 +45,12 @@ Vollmitgliedschaft
 
 Als Mitglied zahlt man einen gewissen fixen jährlichen Betrag zuzüglich Kosten für die einzelnen Starts.
 
-Wird man Neumitglied, entrichtet man noch eine Aufnahmegebühr sowie löst min. ein Flugzeug (meist der Schulungsdoppelsitzer, eine Ask-21) ab - d.h. man zahlt einen bestimmten Betrag und darf dieses Flugzeug dann in Zukunft im Verein unbegrenzt nutzen.
+Wird man Neumitglied, entrichtet man noch eine Aufnahmegebühr sowie löst min. ein Flugzeug (meist der Schulungsdoppelsitzer, eine ASK 21) ab - d.h. man zahlt einen bestimmten Betrag und darf dieses Flugzeug dann in Zukunft im Verein unbegrenzt nutzen.
 
 | Beschreibung              | Jugendliche (unter 21) | Erwachsene |
 | :------------------------ | :--------------------: | :--------: |
 | Aufnahmegebühr (einmalig) | 140,00 €               | 280,00 €   |
-| Ablöse Ask-21 (einmalig)  | 140,00 €               | 280,00 €   |
+| Ablöse ASK 21 (einmalig)  | 140,00 €               | 280,00 €   |
 | Jährliche Gebühr (ca.)    | 330,00 €               | 450,00 €   |
 
 Eine Zahlung pro Flugstunde fällt **nicht** an, die Kosten pro Start halten sich dabei eher gering:
