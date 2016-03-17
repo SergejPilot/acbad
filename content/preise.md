@@ -6,39 +6,33 @@ description: "Preisliste des Aero-Club Baden-Baden e.V. für Schnupperflüge, F�
 HeaderImgUrl: "/img/header/header_fschlepp3278.jpg"
 ---
 
-Segelfliegen im Verein ist günstiger, als viele denken. Im Folgenden finden sie einen Überblick über unsere Preise für [Schnupperflüge]({{< relref "preise.md#schnupperfliegen" >}}), [Fördermitglieder]({{< relref "preise.md#fördermitgliedschaft" >}}) und die [Vereinsmitgliedschaft]({{< relref "preise.md#vollmitgliedschaft" >}}).
+Segelfliegen im Verein ist günstiger, als viele denken. Im Folgenden finden sie einen Überblick über unsere Preise für die [Vereinsmitgliedschaft]({{< relref "preise.md#vollmitgliedschaft" >}}), [Fördermitglieder]({{< relref "preise.md#fördermitgliedschaft" >}}) und [Einführungsflüge]({{< relref "preise.md#einführungsflüge" >}}).
 
-Schnupperfliegen
+Einführungsflüge
 ----------------
-Sie wollen erstmal nur unverbindlich ausprobieren? Dann ist ein Schnupperflug oder Schnupperkurs das richtige für sie!
+Sie wollen erstmal nur unverbindlich ausprobieren? Dann ist ein Einführungsflug oder Schnupperkurs das richtige für sie!
 
-| Leistung                      |    Preis |
-| :---------------------------- | -------: |
-| Schnupperflug Windenstart     |  30,00 € |
-| Schnupperflug 30 min          |  60,00 € |
-| Schnupperflug 60 min          | 110,00 € |
-| Schnupperkurs (min. 3 Starts) |  90,00 € |
+| Leistung                               |    Preis |
+| :------------------------------------- | -------: |
+| Einführungsflug Windenstart            |  30,00 € |
+| Einführungsflug 25 min                 |  60,00 € |
+| Einführungsflug 50 min (oder 2 Starts) | 110,00 € |
+| Schnupperkurs (min. 3 Starts)          |  90,00 € |
 
-Der Schnupperkurs umfasst 3 Flugzeug-Schlepps oder 6 Windenstarts (oder eine Mischung aus beidem) mit theoretischer und praktischer Einweisung.
+Der Schnupperkurs umfasst 1 Flugzeug-Schlepps und 2 Windenstarts mit theoretischer und praktischer Einweisung.
 
-Bei den 30 min bzw. 60 min Flügen können wir die Flugzeit leider nicht immer auf die Minute genau garantieren. Bei schlechten thermischen Wetterbedingungen wird daher ggf. als Ausgleich ein zweiter Start, oft ein etwas höherer Flugzeug-Schlepp für längere Flugdauer, ohne Aufpreis durchgeführt.
+Bei den 25 min bzw. 50 min Flügen können wir die Flugzeit leider nicht immer auf die Minute genau garantieren. Bei schlechten thermischen Wetterbedingungen wird daher ggf. als Ausgleich ein zweiter Start, oft ein etwas höherer Flugzeug-Schlepp für längere Flugdauer, ohne Aufpreis durchgeführt.
 
-Ein Schnupperflug lässt sich auch verschenken - fragen sie einfach in der Gaststätte Looping am Flugplatz nach Gutscheinen.
+Ein Einführungsflug lässt sich auch verschenken - fragen sie einfach in der Gaststätte Looping am Flugplatz nach Gutscheinen.
 
 Fördermitgliedschaft
 --------------------
 
 Für einen frei wählbaren Förderbeitrag von mindestens 25,00 € im Jahr können sie Fördermitglied werden.
-Als Fördermitglied können sie (sowie Ehemann/-frau oder Kinder) mit Piloten aus dem Verein zu den günstigen Mitgliederpreisen mitfliegen (im Folgenden inkl. 5,00 € Landegebühr):  
 
-| Startart                |    Preis |
-| :---------------------- | -------: |
-| Windenstart             |  10,00 € |
-| Flugzeug-Schlepp 600m   |  16,00 € |
-| Flugzeug-Schlepp 800m   |  20,00 € |
-| Flugzeug-Schlepp 1000m  |  27,00 € |
+Als Fördermitglied unterstützen sie den Aero-Club Baden-Baden e.V. und fördern den Luftsport in der Region.
 
-Die Flugzeit hängt dabei - wie beim Segelfliegen üblich - lediglich vom Wetter und der Lust ab!
+Oft findet sich als Fördermitglied auch ein Vereinspilot, der sie (privat) auf einen Kostenteilungsflug mitnimmt (die Kosten für den Start werden dann anteilig aufgeteilt).
 
 Vollmitgliedschaft
 ------------------
