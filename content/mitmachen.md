@@ -7,7 +7,7 @@ HeaderImgUrl: "/img/header/header_preparingdgforstart.jpg"
 ---
 Sie möchten auch einmal die Welt von oben kennenlernen? Kein Problem!
 
-Ob nur mal [reinschnuppern]({{< relref "preise.md#schnupperfliegen" >}}) oder [Mitglied werden]({{< relref "mitmachen.md#mitgliedschaft" >}}), wir freuen uns schon auf Sie!
+Ob erst mal [reinschnuppern]({{< relref "preise.md#einführungsflüge" >}}) oder [Mitglied werden]({{< relref "mitmachen.md#mitgliedschaft" >}}), wir freuen uns schon auf Sie!
 
 {{< image path="/img/pages/mitmachen/startflaechehalten.jpg" caption="Flugschüler direkt vor dem Start" alt="Startendes Flugzeug" >}}
 
