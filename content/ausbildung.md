@@ -9,7 +9,7 @@ Unsere 10 ehrenamtichen Fluglehrer ermöglichen unseren Mitgliedern (ohne Aufpre
 
 Bis zur Erlangung des Segelflugscheins dauert im Normalfall zwischen einem halben und 4 Jahren, im Durchschnitt etwa 2 Jahre (je nach Person unterschiedlich).
 
-Vorraussetzungen
+Voraussetzungen
 ----------------
  * mindestens 14 Jahre alt (nach oben hin keine Altersgrenze, Fliegen ist auch jenseits der 60 noch erlernbar)
  * ein Fliegerärztliches Tauglichkeitszeugnis (eine Brille ist im Normalfall kein Hinderungsgrund)
