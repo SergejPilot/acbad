@@ -5,32 +5,35 @@ title: "Ausbildung"
 description: "Informationen zur Flugausbildung für den Segelflugschein beim Aero-Club Baden-Baden e.V."
 HeaderImgUrl: "/img/header/header_preparingdgforstart.jpg"
 ---
-Unsere 10 ehrenamtichen Fluglehrer ermöglichen unseren Mitgliedern (ohne Aufpreis) die Flugausbildung bis hin zum Segelflugschein, später wenn gewünscht auch zum Motorseglerschein.
-
-Bis zur Erlangung des Segelflugscheins dauert im Normalfall zwischen einem halben und 4 Jahren, im Durchschnitt etwa 2 Jahre (je nach Person unterschiedlich).
+Der Aero-Club Baden-Baden ist eine nach den neuesten europäischen Richtlinien zugelassene Ausbildungseinrichtung für Privatpiloten. Wir ermöglichen unseren Mitgliedern eine qualitativ hochwertige Ausbildung zum Segelflugzeugführer und wer möchte, kann anschließend auch noch die Berechtigung für Motorsegler erlangen. Interessenten, die bereits eine Privatpilotenlizenz für Motorflugzeuge besitzen, können bei uns die Berechtigung zum Schleppen von Segelflugzeugen erwerben. 
+Für die theoretische und praktische Ausbildung stehen uns 10 ehrenamtliche Fluglehrer und 8 Ausbildungsflugzeuge zur Verfügung. Der Ausbildungsbetrieb unterliegt den höchsten Sicherheitsstandards, zu denen auch die regelmäßige Fortbildung unserer Fluglehrer gehört.
 
 Voraussetzungen
 ----------------
- * mindestens 14 Jahre alt (nach oben hin keine Altersgrenze, Fliegen ist auch jenseits der 60 noch erlernbar)
- * ein Fliegerärztliches Tauglichkeitszeugnis (eine Brille ist im Normalfall kein Hinderungsgrund)
- * "Zuverlässigkeit" muss gewährleistet sein, in der Praxis wird dazu vom Regierungspräsidium z.B. das Führungszeugnis geprüft
+ * Jugendliche dürfen bereits mit 14 Jahren mit der Ausbildung beginnen und bei entsprechendem Ausbildungsstand auch alleine fliegen. Nach oben hin gibt es keine Altersgrenzen. Auch für „ältere Semester“ kann Segelfliegen ein erholsames und erfüllendes Hobby sein.
+ * Jeder aktive Pilot benötigt ein Fliegerärztliches Tauglichkeitszeugnis, dessen Erwerb bei normaler Gesundheit aber kein Problem darstellt. Auch das Tragen einer Brille ist in der Regel kein Hinderungsgrund.
+ * Fragen Sie uns doch einfach, wenn Sie sich nicht sicher sind, ob Sie die Voraussetzungen zum Segelfliegen erfüllen. Sie werden sehen, die Hürden sind geringer als gedacht!
 
 Ausbildungsablauf
 -----------------
-Von Frühling bis Herbst findet die Flugschulung bei geeignetem Wetter jedes Wochenende samstags und sonntags statt.
+Von Frühling bis Herbst findet die praktische Flugausbildung an allen Wochenenden und Feiertagen, sowie nach Absprache statt. Im Sommer gibt es meist ein zweiwöchiges Schulungslager in Baden-Baden oder an einem fremden Flugplatz. Im Winter bieten wir die Teilnahme am Theorieunterricht an, der viele interessante Fächer wie Navigation, Meteorologie, Technik, Verhalten in besonderen Fällen, menschliches Leistungsvermögen und Luftrecht beinhaltet. 
+Die Ausbildung kann flexibel gestaltet und auch durch geschlossene Theorie- oder Praxis-Lehrgänge an gewerblichen Flugschulen ergänzt werden.
 
-Wer teilnehmen will, sollte vom Aufbau morgens bis abends zum Abbau sowohl zum selbst Fliegen als auch zum Helfen anwesend sein.1 Anfallende Aufgaben sind z.B. das Ausziehen der Windenseile, zurückziehen von Flugzeugen mit dem Auto oder das Rauslassen von Starts als Flächenmann oder -frau. Segelfliegen ist Teamwork!
+Den Ausbildungsfortschritt bestimmen Sie selbst. Bei regelmäßiger Teilnahme am Flugbetrieb kann man bereits im ersten Jahr die Alleinflugreife erreichen. Der Erwerb der Lizenz ist dann eher ein nebensächlicher Meilenstein in der fliegerischen Laufbahn, da man bereits in der Ausbildung alleine fliegen darf und vom Fluglehrer immer einen Flugauftrag erhält, der dem persönlichen Leistungsstand entspricht. Letztendlich geht es beim Segelfliegen um den Spaß am Fliegen sowie um eine interessante und anspruchsvolle Freizeitbeschäftigung und nicht vorrangig um den Erwerb einer Lizenz.
 
-Im Winter steht dann die Theorieausbildung an. Diese wird in Kooperation mit der Fliegergruppe Gaggenau und der Luftsportgruppe Rastatt statt.
+Der Flugbetrieb beginnt morgens mit dem gemeinsamen Ausräumen und der Überprüfung der Flugzeuge, setzt sich über den Startaufbau und den Flugbetrieb fort und endet abends mit dem Putzen und Einräumen. Segelfliegen ist spannendes und abwechslungsreiches Teamwork, bei dem jeder mit unterschiedlichen Aufgaben betraut wird, beispielsweise dem Ausziehen der Windenseile, Zurückholen von Flugzeugen mit dem Auto, Startvorbereitung und Starthilfe als Flächenmann oder -frau, und später vielleicht der verantwortungsvollen Tätigkeit als Startleiter oder Schlepppilot. Am Anfang werden Deine Vereinskameraden Dich einweisen und darauf achten, dass Du Dich auf dem Flugplatz sicher und ohne Gefahr für Dich und andere bewegst. Je besser die gemeinschaftliche Zusammenarbeit dabei funktioniert, umso schneller und sicherer kommt jeder Pilot in die Luft.
 
 Meilensteine
 ---------------------
-Das erste größere Ziel der praktischen Ausbildung ist immer die Alleinflugreife. Um diese zu erlangen, muss man Start, Landeeinteilung und Landung sowie die möglichen besonderen Flugzustände (z.B. Seilriss beim Start, abkippen, Trudeln) sicher beherrschen. Dies dauert bei regelmäßiger Anwesenheit normalerweise etwa 6 bis 12 Monate.
+Das erste Ziel in der praktischen Ausbildung ist der erste Alleinflug.
 
-Danach können einsitzige Übungsflüge im Doppelsitzer durchgeführt werden, das bedeutet der Fluglehrer bleibt am Boden und beobachtet die Flugdurchführung (vom Flugplatz davonfliegen darf man natürlich noch nicht). In dieser Ausbildungsphase wird man dann auch auf unseren Schulungseinsitzer umgeschult.
+Um die sogenannte Alleinflugreife zu erlangen, muss man sicher starten und landen können, geradeausfliegen, Kurven ein- und ausleiten, ungewöhnliche Flugzustände beherrschen und nach einer sauberen Landeeinteilung das Flugzeug wieder sanft und gezielt neben dem Landekreuz aufsetzen. Dabei achtet der Fluglehrer ganz besonders darauf, dass alle sicherheitsrelevanten Verfahren und das Verhalten bei Notfällen (die gottseidank in der Praxis so gut wie nie auftreten) sicher beherrscht werden. Vor dem Alleinflug ist ein einfacher Theorietest zu bestehen und ein zweiter Fluglehrer überprüft nochmals das fliegerische Können. Dann fliegt man endlich allein – ein Erlebnis, das wohl kein Pilot jemals vergessen wird. 
 
-Das nächste Ziel ist das "oben bleiben" - thermische Aufwinde oder Hangwind sollen so gut wie möglich zum Höhengewinn genutzt werden. Hat man im Thermikfliegen etwas Erfahrung gesammelt, sollte man im Normalfall auch mit der Theorie weit genug für die theoretische Prüfung sein.
+Nach einigen einsitzigen Übungsflügen mit unserem Schulungsdoppelsitzer erfolgt dann die Umschulung auf den Schulungseinsitzer. Dabei bleibt der Fluglehrer am Boden und beaufsichtigt die Flugdurchführung (vom Flugplatz davonfliegen darf man natürlich noch nicht). Zwischendurch fliegt man auch immer wieder mit Fluglehrer, um Neues zu lernen oder das Gelernte zu überprüfen.
 
-Die vorletzte große Hürde schliesslich ist der Alleinflug über mindestens 50km Flugstrecke. Dazu wird man mit Überlandflugeinweisungen und Außenlandeübungen (falls das mit dem oben bleiben doch mal nicht so gut klappt) gut vorbereitet und lernt, eine korrekt Überlandflugvorbereitung durchzuführen.
+Der nächste Schritt ist es zu lernen, wie man durch gezielte Nutzung von Hangwind oder thermischen Aufwinden Höhe gewinnt, um länger oben zu bleiben. Während man so bei immer längeren Flügen erste Erfahrungen sammelt, sollte man parallel auch das Gelernte aus dem Theorieunterricht weiter vertiefen und die theoretische Prüfung ablegen.
 
-Hat man dieses Hindernis gemeistert, muss zum Abschluss nur noch die praktische Prüfung abgelegt werden. Im Regelfall beherrscht man zu diesem Zeitpunkt das Fliegen schon so gut, dass die Prüfung kein großes Hindernis mehr darstellt.
+Die letzte große Etappe ist dann die Vorbereitung auf einen selbständig durchgeführten Streckenflug über mindestens 50km. Dazu wird man vom Fluglehrer im Überlandflug eingewiesen, landet auf fremden Flugplätzen und übt Außenlandungen für den Fall, dass der Aufwind mal ausbleibt. Außerdem lernt man eine gründliche Flugvorbereitung – von der Navigation über gesetzliche Vorschriften bis hin zur Wetterbeurteilung. 
+
+Hat man auch dieses Ziel erreicht, steht der abschließenden praktischen Prüfung nichts mehr im Wege. Dank der guten und intensiven Ausbildung beherrscht man zu diesem Zeitpunkt das Fliegen schon so gut, dass die Prüfung kein großes Hindernis mehr darstellt.
+
