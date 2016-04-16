@@ -11,7 +11,7 @@ Segelfliegen im Verein ist günstiger als viele denken. Im Folgenden finden Sie 
 Vereinsmitgliedschaft
 ------------------
 
-Als Mitglied zahlt man einen fixen jährlichen Betrag, sowie Gebühren für die einzelnen Flüge.
+Als Mitglied zahlt man einen fixen jährlichen Betrag sowie Gebühren für die einzelnen Flüge.
 
 Wird man Neumitglied, entrichtet man noch eine Aufnahmegebühr und löst mindestens ein Flugzeug (meist den Schulungsdoppelsitzer, eine ASK 21) ab - d.h. man zahlt einen bestimmten Betrag und darf dieses Flugzeug dann unbegrenzt nutzen.
 
