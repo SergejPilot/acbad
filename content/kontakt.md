@@ -11,6 +11,10 @@ Haben Sie Fragen oder wollen Sie mehr erfahren? Kommen Sie ins persönliche Gesp
 * per E-Mail unter <info@aero-club.eu>
 * per Telefon unter [+49 (7221) 90 190 99](tel:+4972219019099).
 
+Bei Fragen zur Ausbildung können Sie sich auch direkt an unseren Ausbildungsleiter Klaus Heege wenden:
+* per E-Mail unter <klaus.heege@pt.lu>
+* per Telefon unter [+49 (172) 686 1050](tel:+491726861050).
+
 So finden Sie uns
 -------
 
