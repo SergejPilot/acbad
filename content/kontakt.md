@@ -6,12 +6,12 @@ description: "Kontaktdaten des Aero-Club Baden-Baden e.V. (E-Mail,  Telefon, Ans
 HeaderImgUrl: "/img/header/header_kontakt.jpg"
 ---
 
-Haben sie Fragen oder wollen mehr erfahren? Kommen sie ins persönliche Gespräch mit uns:
+Haben Sie Fragen oder wollen Sie mehr erfahren? Kommen Sie ins persönliche Gespräch mit uns:
 
 * per E-Mail unter <info@aero-club.eu>
 * per Telefon unter [+49 (7221) 90 190 99](tel:+4972219019099).
 
-So finden sie uns
+So finden Sie uns
 -------
 
 Über die B3-Umgehung Baden-Baden-Oos ins Industriegebiet Oos-West.
