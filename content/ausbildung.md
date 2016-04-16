@@ -37,3 +37,4 @@ Die letzte große Etappe ist dann die Vorbereitung auf einen selbständig durchg
 
 Hat man auch dieses Ziel erreicht, steht der abschließenden praktischen Prüfung nichts mehr im Wege. Dank der guten und intensiven Ausbildung beherrscht man zu diesem Zeitpunkt das Fliegen schon so gut, dass die Prüfung kein großes Hindernis mehr darstellt.
 
+Bei Fragen zur Ausbildung können Sie sich gerne auch direkt an unseren Ausbildungsleiter Klaus Heege (Tel.: +49 172 6861050, E-Mail: klaus.heege@pt.lu) wenden.
