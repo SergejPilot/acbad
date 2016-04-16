@@ -14,8 +14,8 @@ Ob erst mal [reinschnuppern]({{< relref "preise.md#einführungsflüge" >}}) oder
 Mitgliedschaft
 --------------
 
-Mitglied werden kann bei uns (fast) jeder, egal ob jung (ab 14 Jahren) oder alt, flugerfahren oder unerfahren.
-Unsere ehrenamtlichen Fluglehrer ermöglichen eine preiswerte [Segelflugausbildung]({{< relref "ausbildung.md">}}) von null ab bis zum Pilotenschein.
+Mitglied werden kann bei uns (fast) jeder - egal, ob jung (ab 14 Jahren) oder alt, alter Hase oder Neuling.
+Dank unserer ehrenamtlich tätigen Fluglehrer können wir Ihnen eine kostengünstige [Segelflugausbildung]({{< relref "ausbildung.md">}})  bis hin zum Pilotenschein bieten.
 
 <!--{{< image path="/img/logo_farbig.jpg" attribution="Arno Nymous" caption="Dies ist eine Test-Bildunterschrift." alt="Testbild" >}}
 
