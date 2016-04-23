@@ -35,7 +35,7 @@ menu:
       Identifier: "ausbildung"
       URL: "/ausbildung/"
       Parent: "mitmachen"
-    - Name: "Preise"
+    - Name: "Gebühren"
       Weight: 10
       Identifier: "preise"
       URL: "/preise/"
