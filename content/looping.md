@@ -13,4 +13,11 @@ Reservierungen und Kontaktaufnahme unter [+49 (7221) 61 61 6](tel:+49722161616).
 
 Öffnungszeiten
 --------------
+
+**Liebe Gäste,**
+
+**am Sonntag, den 2. Oktober, haben wir eine geschlossene Gesellschaft.**
+
+**Am Montag, den 3. Oktober, haben wir ab 17 Uhr geöffnet.**
+
 Geöffnet ist Dienstag bis Freitag von 11:30 bis 14:30 und 17:00 - 23:00, samstags 17:00 - 23:00, sonntags durchgehend von 11:30 - 23:00. **Montag ist Ruhetag.**
