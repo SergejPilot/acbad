@@ -15,15 +15,15 @@ menu:
       Weight: 10
       Identifier: "ueberuns"
       URL: "/ueberuns/"
-    - Name: "Presseberichte"
-      Weight: 0
-      Identifier: "presseberichte"
-      URL: "/presseberichte/"
-      Parent: "ueberuns"
     - Name: "Flugzeugpark"
-      Weight: 10
+      Weight: 0
       Identifier: "flugzeugpark"
       URL: "/flugzeugpark/"
+      Parent: "ueberuns"
+    - Name: "Presseberichte"
+      Weight: 10
+      Identifier: "presseberichte"
+      URL: "/presseberichte/"
       Parent: "ueberuns"
     - Name: "Gaststätte"
       Weight: 20
