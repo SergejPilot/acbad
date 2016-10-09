@@ -20,12 +20,16 @@ menu:
       Identifier: "flugzeugpark"
       URL: "/flugzeugpark/"
       Parent: "ueberuns"
-    - Name: "Gaststätte"
+    - Name: "Presseberichte"
       Weight: 10
+      Identifier: "presseberichte"
+      URL: "/presseberichte/"
+      Parent: "ueberuns"
+    - Name: "Gaststätte"
+      Weight: 20
       Identifier: "looping"
       URL: "/looping/"
       Parent: "ueberuns"
-
     - Name: "Mitmachen"
       Weight: 20
       Identifier: "mitmachen"
@@ -40,7 +44,6 @@ menu:
       Identifier: "preise"
       URL: "/preise/"
       Parent: "mitmachen"
-
     - Name: "News"
       Weight: 30
       Identifier: "news"
