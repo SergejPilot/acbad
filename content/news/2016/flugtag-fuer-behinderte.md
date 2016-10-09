@@ -1,7 +1,7 @@
 ---
 date: "2016-10-09T19:00:00+02:00"
 draft: false
-title: "Flugtag am 9.10.2016"
+title: "Flugtag für Kinder"
 slug: "flugtag-fuer-behinderte-kinder"
 author: "Felix Stadthaus"
 HeaderImgUrl: "/img/header/header-flug2.jpg"
