@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  {{ partial "head.html" . }}
+
+  {{ partial "presseberichtestyle.html" . }}
+</head>
+<body>
+  {{ partial "navigation.html" . }}
+<div id="main">
+  <header>
+  </header>
+  <main>
+    <h1>Presseberichte</h1>
+    <p>Hier eine kleine Sammlung, was die lokale Presse so über uns schreibt.</p>
+    {{ range .Data.Pages }}
+        {{ .Render "summary" }}
+    {{ end }}
+  </main>
+</div>
+{{ partial "footer.html" . }}
