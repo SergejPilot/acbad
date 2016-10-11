@@ -14,17 +14,17 @@ menu:
     - Name: "Über uns"
       Weight: 10
       Identifier: "ueberuns"
-      URL: "/ueberuns/"      
-    - Name: "Presseberichte"
+      URL: "/ueberuns/"
+    - Name: "Flugzeugpark"
       Weight: 0
+      Identifier: "flugzeugpark"
+      URL: "/flugzeugpark/"
+      Parent: "ueberuns"
+    - Name: "Presseberichte"
+      Weight: 10
       Identifier: "presseberichte"
       URL: "/presseberichte/"
       Parent: "ueberuns"
-    - Name: "Flugzeugpark"
-      Weight: 10
-      Identifier: "flugzeugpark"
-      URL: "/flugzeugpark/"
-      Parent: "ueberuns"      
     - Name: "Gaststätte"
       Weight: 20
       Identifier: "looping"
@@ -44,7 +44,6 @@ menu:
       Identifier: "preise"
       URL: "/preise/"
       Parent: "mitmachen"
-
     - Name: "News"
       Weight: 30
       Identifier: "news"

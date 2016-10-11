@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+<div id="main">
+  <header>
+  </header>
+  <main>
+    <h1>{{ .Title }}</h1>
+    <figure class="imagebox">
+      <a href="{{ .Params.pressfile }}">
+        <img src="{{ .Params.pressfile }}"alt="{{ .Title }}"/>
+      </a>
+      <div class="caption">{{ .Title }}</div>
+      <div class="attribution">Artikel von {{ .Params.press }}</div>
+    </figure>
+  </main>
+</div>
+{{ partial "footer.html" . }}
