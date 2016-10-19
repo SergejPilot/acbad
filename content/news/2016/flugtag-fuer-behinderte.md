@@ -8,9 +8,9 @@ HeaderImgUrl: "/img/header/header_kinderflugtag.jpg"
 ---
 Aero-Club Baden-Baden & Fliegergruppe Gaggenau freuen sich über erfolgreichen Flugtag für behinderte und chronisch kranke Kinder.<!--more-->
 Angeregt durch den Artikel im ADLER 09/16 haben die Mitglieder vom Aero-Club Baden-Baden und der Fliegergruppe Gaggenau kurzentschlossen am 9.10. 2016 erstmals auch einen Flugtag für behinderte und chronisch kranke Kinder und deren Familien organisiert.<br>
-[SWR  Video.](http://swrmediathek.de/player.htm?show=4549f9f0-8e51-11e6-8e1e-005056a12b4c)  
+[SWR  Video](http://swrmediathek.de/player.htm?show=4549f9f0-8e51-11e6-8e1e-005056a12b4c)  
 --
-<a href="#fotoreportage">Die Fotoreportage.</a> <br>
+<a href="#fotoreportage">Fotoreportage</a> <br>
 --
 Beide Vereine haben dafür fünf Segelflug-Doppelsitzer, zwei Motorsegler, eine Piper PA 18, eine Robin DR 300 und eine Husky als Schleppmaschine mitsamt den erforderlichen Piloten - und einer flotten Bodenmannschaft -aufgeboten, um den 35 Kindern und ihren Familien einen Flug zu ermöglichen. Dabei unterstützte uns die Scherer-Stiftung Baden-Baden mit einer großzügigen Spende bei den Flug- und Bewirtungskosten, wofür wir uns an dieser Stelle nochmals herzlich bedanken.
 Nach anfänglichem Bangen und Frieren unter einer zähen Nebeldecke hatte sich dann gegen 13:00 Uhr der Himmel endlich gelichtet und uns zum Schluss noch einen sonnigen Nachmittag beschert. Bis gegen 17:00 Uhr beförderten wir in pausenlosem Flugbetrieb insgesamt 62 Gäste durch die Luft. Selten haben wir so viele begeisterte und dankbare Menschen erlebt, obwohl jedes Kind und oft die ganze Familie unter der Krankheit, Behinderung oder einem traumatischen Verlust schwer zu leiden hat. Die meisten empfanden das Fliegen auch als besonders befreiendes Erlebnis. Je nach Wunsch und Belastbarkeit durften die Kinder wählen zwischen Segelflug mit Winden- oder F-Schlepp-Start, Motorsegler-Flug oder einem von Eltern begleiteten Motorflug in der 4-sitzigen Robin DR 300. 
