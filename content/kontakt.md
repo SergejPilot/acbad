@@ -16,6 +16,8 @@ Bei Fragen zur Ausbildung können Sie sich auch direkt an unseren Ausbildungslei
 * per E-Mail unter <klaus.heege@pt.lu>
 * per Telefon unter [+49 (172) 686 1050](tel:+491726861050).
 
+Besuchen sie auch unsere [Facebookseite](https://www.facebook.com/acbadenbaden/)!
+
 So finden Sie uns
 -------
 
