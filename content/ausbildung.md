@@ -12,6 +12,7 @@ Voraussetzungen
 ----------------
  * Jugendliche dürfen bereits mit 14 Jahren mit der Ausbildung beginnen und bei entsprechendem Ausbildungsstand auch alleine fliegen. Nach oben hin gibt es keine Altersgrenzen. Auch für „ältere Semester“ kann Segelfliegen ein erholsames und erfüllendes Hobby sein.
  * Jeder aktive Pilot benötigt ein Fliegerärztliches Tauglichkeitszeugnis, dessen Erwerb bei normaler Gesundheit aber kein Problem darstellt. Auch das Tragen einer Brille ist in der Regel kein Hinderungsgrund.
+ * Adressen der Fliegerärzte findet man unter der <a href = "https://www2.lba.de/webdb/showtab.jsp?table=flareg">Liste der flugmedizinischen Sachverständigen</a> des <a href = "https://www.lba.de/DE/Luftfahrtpersonal/Flugmedizin/Uebersichts_Adressen.html ">Luftfahrt-Bundesamtes. </a>
  * Fragen Sie uns doch einfach, wenn Sie sich nicht sicher sind, ob Sie die Voraussetzungen zum Segelfliegen erfüllen. Sie werden sehen, die Hürden sind geringer als gedacht!
 
 Ausbildungsablauf
