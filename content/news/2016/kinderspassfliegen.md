@@ -6,11 +6,9 @@ slug: "kinderspassfliegen"
 author: "Sergej Miller"
 HeaderImgUrl: "/img/header/header-flugplatz2.jpg"
 ---
-Erfolgreiches Kinder- und Elternspaßfliegen am 10.9.2016.
-<!--more-->
-Bei sommerlichem Wetter verlief das traditionelle Kinderspaß-Segelfliegen in Zusammenarbeit mit dem Kinder- und Jugendbüro der Stadt Baden-Baden sehr erfreulich.
+Bei sommerlichem Wetter verlief am 10.09.2016 das traditionelle Kinderspaß-Segelfliegen in Zusammenarbeit mit dem Kinder- und Jugendbüro der Stadt Baden-Baden sehr erfreulich.
 
-Die gute Resonanz in der lokalen Presse hat das große Interesse bestätigt. Dabei nahmen außerdem noch drei kurzentschlossene Väter und ein Betreuer die Gelegenheit zu einem Schnupperflug wahr.
+Die gute Resonanz in der lokalen Presse hat das große Interesse bestätigt. Dabei nahmen außerdem noch drei kurzentschlossene Väter und ein Betreuer die Gelegenheit zu einem Schnupperflug wahr.<!--more-->
 Herzlichen Dank allen aktiv Mitwirkenden - besonders auch Helmy und Jörg, die für einen reibungslosen Boden- und Flugbetrieb bei guter Stimmung gesorgt haben.
 
 Besonderen Dank auch an die Fliegerfreunde von der FGG für die freundliche Unterstützung durch den außerplanmäßigen Windenbetrieb mit hervorragenden Schlepps.
