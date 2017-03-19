@@ -31,7 +31,7 @@ Eine Zahlung pro Flugstunde fällt beim Segelflug **nicht** an. Sie zahlen ledig
 | Flugzeugschlepp 800 m    | 17,00 € |
 | Flugzeugschlepp 1000 m   | 25,00 € |
 
-Um diese geringen Kosten zu ermöglichen, beteiligen sich alle Mitglieder an den anfallenden Arbeiten. Wer das Minimum von 65 Arbeitsstunden im Jahr nicht erfüllt, leistet eine Ausgleichszahlung.
+Um diese geringen Kosten zu ermöglichen, beteiligen sich alle Mitglieder an den anfallenden Arbeiten. Sie können das Minimum von 65 Arbeitsstunden im Jahr nicht erfüllen? Kein Problem, in dem Fall können Sie alternativ eine Ausgleichszahlung leisten.
 
 Fördermitgliedschaft
 --------------------
@@ -55,6 +55,6 @@ Sie wollen das Fliegen erst einmal unverbindlich ausprobieren? Dann ist ein Einf
 
 Der Schnupperkurs umfasst 1 Flugzeugschlepp und 2 Windenstarts mit theoretischer und praktischer Einweisung.
 
-Segelfliegen ist vom Wetter abhängig. Deshalb können wir die Flugzeit leider nicht immer auf die Minute genau garantieren. 
+Segelfliegen ist vom Wetter abhängig. Deshalb können wir die Flugzeit leider nicht immer auf die Minute genau garantieren.
 
 Ein Einführungsflug lässt sich auch verschenken - fragen Sie einfach in der Gaststätte Looping am Flugplatz nach Gutscheinen.
