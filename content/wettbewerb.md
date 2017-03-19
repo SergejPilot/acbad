@@ -9,46 +9,20 @@ description: "Der Online-Contest (OLC) ist eine Online-Plattform für Streckenfl
 Der Online-Contest (OLC) ist eine Online-Plattform für Streckenflug-Wettbewerbe in den Sparten Segelflug, Hängegleiter, Gleitschirm und Modellsegelflugzeuge.
 Das Zielpublikum für diese Wettbewerbe sind in erster Linie Breitensportler. In den genannten Sparten gibt es sowohl nationale als auch internationale Wertungen sowie verschiedene Leistungsklassen.
 
-### Hier ist die erfasste Statistik der Flügen von Aeroclub-Mitgliedern
--------
-Aktuell
------
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/club.html?cc=22&st=olcp&rt=olc&c=C0&sc=&sp=2017">Rangliste Aeroclub</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/clubRanking.html?st=olcp&rt=olc&c=DE&sc=bw&sp=2017">Rangliste Vereinswertung Baden-Württemberg</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/airfieldRanking.html?rt=olc&sp=2017&st=olc&c=DE&sc=bw">Rangliste Flugplatz</a>
+Im OLC können Segelflugpiloten die vom GPS-Logger an Bord aufgezeichneten Flüge als Datei hochladen.
+Auf der Website des OLC werden die Flüge dann ausgewertet.
 
-2016
--------
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/club.html?cc=22&st=olcp&rt=olc&c=C0&sc=&sp=2016">Rangliste Aeroclub</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/clubRanking.html?st=olcp&rt=olc&c=DE&sc=bw&sp=2016">Rangliste Vereinswertung Baden-Württemberg</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/airfieldRanking.html?rt=olc&sp=2016&st=olc&c=DE&sc=bw">Rangliste Flugplatz</a>
+{{< image path="/img/pages/wettbewerb/olcexample.png" caption="Ein im OLC hochgeladener Flug." alt="Flug im OLC" >}}
 
-2015
--------
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/club.html?cc=22&st=olcp&rt=olc&c=C0&sc=&sp=2015">Rangliste Aeroclub</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/clubRanking.html?st=olcp&rt=olc&c=DE&sc=bw&sp=2015">Rangliste Vereinswertung Baden-Württemberg</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/airfieldRanking.html?rt=olc&sp=2015&st=olc&c=DE&sc=bw">Rangliste Flugplatz</a>
+In die per GPS aufgezeichnete Flugroute (mit allen Kreisen und Umwegen, die während dem Flug so angefallen sind) werden nach definierten Regeln mehrere Wegpunkte gelegt. Die so errechneten Flugstrecke zwischen den Wegpunkten, die Durchschnittsgeschwindigkeit und die Leistungsfähigkeit des Flugzeugs (in manchen Wertungen auch das "Handycap" des Piloten) werden dann in eine Punktzahl umgewandelt, aus der sich die Ranglisten ergeben.
 
-2014
--------
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/club.html?cc=22&st=olcp&rt=olc&c=C0&sc=&sp=2014">Rangliste Aeroclub</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/clubRanking.html?st=olcp&rt=olc&c=DE&sc=bw&sp=2014">Rangliste Vereinswertung Baden-Württemberg</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/airfieldRanking.html?rt=olc&sp=2014&st=olc&c=DE&sc=bw">Rangliste Flugplatz</a>
+Den Flug kann man sich dann sehr anschaulich online angucken - inklusive Flugroute auf der Karte und einem Graphen der Flughöhe und -geschwindigkeit im Zeitverlauf.
 
-2013
--------
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/club.html?cc=22&st=olcp&rt=olc&c=C0&sc=&sp=2013">Rangliste Aeroclub</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/clubRanking.html?st=olcp&rt=olc&c=DE&sc=bw&sp=2013">Rangliste Vereinswertung Baden-Württemberg</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/airfieldRanking.html?rt=olc&sp=2013&st=olc&c=DE&sc=bw">Rangliste Flugplatz</a>
+Hier finden sie ein paar Links zu Auszügen aus den Bewertungen des OLC:
 
-2012
--------
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/club.html?cc=22&st=olcp&rt=olc&c=C0&sc=&sp=2012">Rangliste Aeroclub</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/clubRanking.html?st=olcp&rt=olc&c=DE&sc=bw&sp=2012">Rangliste Vereinswertung Baden-Württemberg</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/airfieldRanking.html?rt=olc&sp=2012&st=olc&c=DE&sc=bw">Rangliste Flugplatz</a>
+* [Vereinsinterne Wertung Aero-Club Baden-Baden](http://www.onlinecontest.org/olc-2.0/gliding/club.html?cc=22&st=olcp&rt=olc&c=C0&sc=&sp=2017)
+* [Rangliste Vereinswertung Baden-Württemberg](http://www.onlinecontest.org/olc-2.0/gliding/clubRanking.html?st=olcp&rt=olc&c=DE&sc=bw&sp=2017)
+* [Rangliste Flugplätze Baden-Württemberg](http://www.onlinecontest.org/olc-2.0/gliding/airfieldRanking.html?rt=olc&sp=2017&st=olc&c=DE&sc=bw)
+* [Tageswertung weltweit](http://www.onlinecontest.org/olc-2.0/gliding/daily.html)
 
-2011
--------
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/club.html?cc=22&st=olcp&rt=olc&c=C0&sc=&sp=2011">Rangliste Aeroclub</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/clubRanking.html?st=olcp&rt=olc&c=DE&sc=bw&sp=2011">Rangliste Vereinswertung Baden-Württemberg</a>
-* <a href = "http://www.onlinecontest.org/olc-2.0/gliding/airfieldRanking.html?rt=olc&sp=2011&st=olc&c=DE&sc=bw">Rangliste Flugplatz</a>
+Weitere Infos unter [www.onlinecontest.org](http://www.onlinecontest.org).
