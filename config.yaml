@@ -15,18 +15,18 @@ menu:
       Weight: 10
       Identifier: "ueberuns"
       URL: "/ueberuns/"
+    - Name: "Verein"
+      Weight: 10
+      Identifier: "verein"
+      URL: "/verein/"
+      Parent: "ueberuns"
     - Name: "Flugzeugpark"
-      Weight: 0
+      Weight: 20
       Identifier: "flugzeugpark"
       URL: "/flugzeugpark/"
       Parent: "ueberuns"
-    - Name: "Presseberichte"
-      Weight: 10
-      Identifier: "presseberichte"
-      URL: "/presseberichte/"
-      Parent: "ueberuns"
     - Name: "Gaststätte"
-      Weight: 20
+      Weight: 30
       Identifier: "looping"
       URL: "/looping/"
       Parent: "ueberuns"
@@ -35,19 +35,41 @@ menu:
       Identifier: "mitmachen"
       URL: "/mitmachen/"
     - Name: "Ausbildung"
-      Weight: 0
+      Weight: 10
       Identifier: "ausbildung"
       URL: "/ausbildung/"
       Parent: "mitmachen"
     - Name: "Gebühren"
-      Weight: 10
+      Weight: 20
       Identifier: "preise"
       URL: "/preise/"
       Parent: "mitmachen"
-    - Name: "News"
+
+    - Name: "Aktuelles"
       Weight: 30
+      Identifier: "aktuelles"
+      URL: "/news/"
+    - Name: "News"
+      Weight: 10
       Identifier: "news"
       URL: "/news/"
+      Parent: "aktuelles"
+    - Name: "Presseberichte"
+      Weight: 20
+      Identifier: "presseberichte"
+      URL: "/presseberichte/"
+      Parent: "aktuelles"
+    - Name: "Wettbewerb"
+      Weight: 30
+      Identifier: "wettbewerb"
+      URL: "/wettbewerb/"
+      Parent: "aktuelles"
+    - Name: "Wetter"
+      Weight: 40
+      Identifier: "wetter"
+      URL: "/wetter/"
+      Parent: "aktuelles"
+
     - Name: "Kontakt"
       Weight: 40
       Identifier: "kontakt"
