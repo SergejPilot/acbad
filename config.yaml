@@ -72,11 +72,11 @@ menu:
       URL: "/wetter/"
       Parent: "aktuelles"
 
-    - Name: "OLC"
+    - Name: "Wettbewerb"
       Weight: 30
-      Identifier: "olc"
-      URL: "/olc/"
-      Parent: "aktuelles"                          
+      Identifier: "wettbewerb"
+      URL: "/wettbewerb/"
+      Parent: "aktuelles"
 
     - Name: "Kontakt"
       Weight: 40
