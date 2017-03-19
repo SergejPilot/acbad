@@ -14,9 +14,9 @@ Auf der Website des OLC werden die Flüge dann ausgewertet.
 
 {{< image path="/img/pages/wettbewerb/olcexample.png" caption="Ein im OLC hochgeladener Flug." alt="Flug im OLC" >}}
 
-In die per GPS aufgezeichnete Flugroute (mit allen Kreisen und Umwegen, die während dem Flug so angefallen sind) werden nach definierten Regeln mehrere Wegpunkte gelegt. Die so errechneten Flugstrecke zwischen den Wegpunkten, die Durchschnittsgeschwindigkeit und die Leistungsfähigkeit des Flugzeugs (in manchen Wertungen auch das "Handycap" des Piloten) werden dann in eine Punktzahl umgewandelt, aus der sich die Ranglisten ergeben.
+In die per GPS aufgezeichnete Flugroute (mit allen Kreisen und Umwegen, die während dem Flug angefallen sind) werden nach definierten Regeln mehrere Wegpunkte gelegt. Die so errechnete Flugstrecke zwischen den Wegpunkten, die Durchschnittsgeschwindigkeit und die Leistungsfähigkeit des Flugzeugs (in manchen Wertungen auch das "Handycap" des Piloten) werden dann in eine Punktzahl umgewandelt, aus der sich die Ranglisten ergeben.
 
-Den Flug kann man sich dann sehr anschaulich online angucken - inklusive Flugroute auf der Karte und einem Graphen der Flughöhe und -geschwindigkeit im Zeitverlauf.
+Den Flug kann man sich dann sehr anschaulich online anschauen - inklusive Flugroute auf der Karte und einem Graphen der Flughöhe und -geschwindigkeit im Zeitverlauf.
 
 Hier finden sie ein paar Links zu Auszügen aus den Bewertungen des OLC:
 
