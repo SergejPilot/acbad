@@ -14,7 +14,7 @@ menu:
     - Name: "Über uns"
       Weight: 10
       Identifier: "ueberuns"
-      URL: "/ueberuns/"   
+      URL: "/ueberuns/"
     - Name: "Verein"
       Weight: 0
       Identifier: "verein"
@@ -24,7 +24,7 @@ menu:
       Weight: 10
       Identifier: "presseberichte"
       URL: "/presseberichte/"
-      Parent: "ueberuns"      
+      Parent: "ueberuns"
     - Name: "Flugzeugpark"
       Weight: 20
       Identifier: "flugzeugpark"
@@ -34,7 +34,7 @@ menu:
       Weight: 30
       Identifier: "flugplatz"
       URL: "http://www.flugplatz-baden-oos.de"
-      Parent: "ueberuns"             
+      Parent: "ueberuns"
     - Name: "Gaststätte"
       Weight: 40
       Identifier: "looping"
@@ -54,7 +54,7 @@ menu:
       Identifier: "preise"
       URL: "/preise/"
       Parent: "mitmachen"
-      
+
     - Name: "Aktuelles"
       Weight: 30
       Identifier: "aktuelles"
@@ -64,26 +64,20 @@ menu:
       Weight: 10
       Identifier: "news"
       URL: "/news/"
-      Parent: "aktuelles"                   
-     
+      Parent: "aktuelles"
+
     - Name: "Wetter"
       Weight: 20
       Identifier: "wetter"
       URL: "/wetter/"
-      Parent: "aktuelles"           
-      
+      Parent: "aktuelles"
+
     - Name: "OLC"
       Weight: 30
       Identifier: "olc"
       URL: "/olc/"
-      Parent: "aktuelles"                 
+      Parent: "aktuelles"                          
 
-    - Name: "Intern"
-      Weight: 40
-      Identifier: "intern"
-      URL: "http://intern.aero-club.eu/Intern/Aktuelles"
-      Parent: "aktuelles"           
-      
     - Name: "Kontakt"
       Weight: 40
       Identifier: "kontakt"
