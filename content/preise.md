@@ -1,4 +1,4 @@
----
+﻿---
 date: "2015-05-13T14:40:50+02:00"
 draft: false
 title: "Gebühren"
@@ -18,18 +18,18 @@ Wird man Neumitglied, entrichtet man noch eine Aufnahmegebühr und löst mindest
 | Beschreibung              | Jugendliche (bis 21 J.) | Erwachsene |
 | :------------------------ | :--------------------:  | :--------: |
 | Aufnahmegebühr (einmalig) | 140,00 €                | 280,00 €   |
-| Ablösegebühr  (einmalig)  | 140,00 €                | 280,00 €   |
-| Jahresbeiträge            | 340,00 €                | 470,00 €   |
+| Ablösegebühr (einmalig)   | 140,00                  | 280,00 €   |
+| Jahresbeiträge            | 340,00                  | 470,00 €   |
 
-Eine Zahlung pro Flugstunde fällt beim Segelflug **nicht** an. Sie zahlen lediglich die folgenden Gebühren pro Start:
+Sie zahlen die folgenden Gebühren pro Start:
 
 | Startart                 | Gebühr  |
 | :----------------------- | ------: |
 | Windenstart              |  5,50 € |
-| Flugzeugschlepp 300 m    | 10,00 € |
-| Flugzeugschlepp 600 m    | 12,00 € |
-| Flugzeugschlepp 800 m    | 17,00 € |
-| Flugzeugschlepp 1000 m   | 25,00 € |
+| Flugzeugschlepp 600 m    | 18,00 € |
+| Flugzeugschlepp 800 m    | 24,00 € |
+| Flugzeugschlepp 1000 m   | 30,00 € |
+| Flugzeugschlepp 1200 m   | 36,00 € |
 
 Um diese geringen Kosten zu ermöglichen, beteiligen sich alle Mitglieder an den anfallenden Arbeiten. Sie können das Minimum von 65 Arbeitsstunden im Jahr nicht erfüllen? Kein Problem, in dem Fall können Sie alternativ eine Ausgleichszahlung leisten.
 
@@ -49,9 +49,9 @@ Sie wollen das Fliegen erst einmal unverbindlich ausprobieren? Dann ist ein Einf
 | Leistung                                |    Preis |
 | :-------------------------------------  | -------: |
 | Einführungsflug Windenstart             |  30,00 € |
-| Einführungsflug 25 min.                 |  60,00 € |
-| Einführungsflug 50 min. (oder 2 Starts) | 110,00 € |
-| Schnupperkurs (3 Flüge)                 |  90,00 € |
+| Einführungsflug 25 min.                 |  65,00 € |
+| Einführungsflug 50 min. (oder 2 Starts) | 120,00 € |
+| Schnupperkurs (3 Flüge)                 | 120,00 € |
 
 Der Schnupperkurs umfasst 1 Flugzeugschlepp und 2 Windenstarts mit theoretischer und praktischer Einweisung.
 
