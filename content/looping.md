@@ -16,8 +16,8 @@ Reservierungen und Kontaktaufnahme unter [+49 (7221) 61 61 6](tel:+49722161616).
 
 **Liebe Gäste,**
 
-**am Sonntag, den 2. Oktober, haben wir eine geschlossene Gesellschaft.**
+**am 24. und 25. Dezember haben wir geschlossen. Am 26. Dezember ab 17 Uhr geöffnet.**
 
-**Am Montag, den 3. Oktober, haben wir ab 17 Uhr geöffnet.**
+**Am 01. Januar 2017 haben wir ebenfalls ab 17 Uhr geöffnet.**
 
 Geöffnet ist Dienstag bis Freitag von 11:30 bis 14:30 und 17:00 - 23:00, samstags 17:00 - 23:00, sonntags durchgehend von 11:30 - 23:00. **Montag ist Ruhetag.**
