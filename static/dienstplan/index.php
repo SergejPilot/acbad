@@ -1,4 +1,4 @@
 <?php
-    header("Location: https://docs.google.com/spreadsheets/d/1pB1XASMbcmRQSQ4TlGmngJHhGAiBivjFxY66Ie1hJIY/");
+    header("Location: https://docs.google.com/spreadsheets/d/1WmPpxM0wqj9j9GFiB8asYHgyvoL2dwwF0uu3GJX7_is/");
     exit();
 ?>

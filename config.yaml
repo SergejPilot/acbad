@@ -14,29 +14,19 @@ menu:
     - Name: "Über uns"
       Weight: 10
       Identifier: "ueberuns"
-      URL: "/ueberuns/"   
+      URL: "/ueberuns/"
     - Name: "Verein"
-      Weight: 0
+      Weight: 10
       Identifier: "verein"
       URL: "/verein/"
       Parent: "ueberuns"
-    - Name: "Presseberichte"
-      Weight: 10
-      Identifier: "presseberichte"
-      URL: "/presseberichte/"
-      Parent: "ueberuns"      
     - Name: "Flugzeugpark"
       Weight: 20
       Identifier: "flugzeugpark"
       URL: "/flugzeugpark/"
       Parent: "ueberuns"
-    - Name: "Flugplatz"
-      Weight: 30
-      Identifier: "flugplatz"
-      URL: "http://www.flugplatz-baden-oos.de"
-      Parent: "ueberuns"             
     - Name: "Gaststätte"
-      Weight: 40
+      Weight: 30
       Identifier: "looping"
       URL: "/looping/"
       Parent: "ueberuns"
@@ -45,45 +35,41 @@ menu:
       Identifier: "mitmachen"
       URL: "/mitmachen/"
     - Name: "Ausbildung"
-      Weight: 0
+      Weight: 10
       Identifier: "ausbildung"
       URL: "/ausbildung/"
       Parent: "mitmachen"
     - Name: "Gebühren"
-      Weight: 10
+      Weight: 20
       Identifier: "preise"
       URL: "/preise/"
       Parent: "mitmachen"
-      
+
     - Name: "Aktuelles"
       Weight: 30
       Identifier: "aktuelles"
       URL: "/news/"
-
     - Name: "News"
       Weight: 10
       Identifier: "news"
       URL: "/news/"
-      Parent: "aktuelles"                   
-     
-    - Name: "Wetter"
+      Parent: "aktuelles"
+    - Name: "Presseberichte"
       Weight: 20
+      Identifier: "presseberichte"
+      URL: "/presseberichte/"
+      Parent: "aktuelles"
+    - Name: "Wettbewerb"
+      Weight: 30
+      Identifier: "wettbewerb"
+      URL: "/wettbewerb/"
+      Parent: "aktuelles"
+    - Name: "Wetter"
+      Weight: 40
       Identifier: "wetter"
       URL: "/wetter/"
-      Parent: "aktuelles"           
-      
-    - Name: "OLC"
-      Weight: 30
-      Identifier: "olc"
-      URL: "/olc/"
-      Parent: "aktuelles"                 
+      Parent: "aktuelles"
 
-    - Name: "Intern"
-      Weight: 40
-      Identifier: "intern"
-      URL: "http://intern.aero-club.eu/Intern/Aktuelles"
-      Parent: "aktuelles"           
-      
     - Name: "Kontakt"
       Weight: 40
       Identifier: "kontakt"
