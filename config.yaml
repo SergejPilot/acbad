@@ -54,18 +54,23 @@ menu:
       Identifier: "news"
       URL: "/news/"
       Parent: "aktuelles"
+    - Name: "Veranstaltungen"                             
+      Weight: 20                                 
+      Identifier: "events"                       
+      URL: "/events/"                            
+      Parent: "aktuelles"                              
     - Name: "Presseberichte"
-      Weight: 20
+      Weight: 30
       Identifier: "presseberichte"
       URL: "/presseberichte/"
       Parent: "aktuelles"
     - Name: "Wettbewerb"
-      Weight: 30
+      Weight: 40
       Identifier: "wettbewerb"
       URL: "/wettbewerb/"
       Parent: "aktuelles"
     - Name: "Wetter"
-      Weight: 40
+      Weight: 50
       Identifier: "wetter"
       URL: "/wetter/"
       Parent: "aktuelles"
