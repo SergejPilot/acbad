@@ -18,6 +18,6 @@ Wetter aktuell
 
 Flugwetter
 -----
-* <a href = "https://www.baden-airpark.de/flugwetter">Baden Airpark</a>
-* <a href = "http://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fxdl40_edds_node">Segelflugbericht Stuttgart</a>
+* <a href = "https://www.baden-airpark.de/luftfahrt-am-fkb/piloteninfo/flugwetterdaten/">Baden Airpark</a>
+* <a href = "http://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_50">Segelflugbericht Südlicher Oberrheingraben</a>
 * <a href = "http://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbeu40_edzm_node.html">GAFOR und Flugwetter Süd</a>
