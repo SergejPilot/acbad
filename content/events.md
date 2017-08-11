@@ -7,7 +7,7 @@ description: "Events um den  Flugplatz und  Aeroclub"
 ---
 Hier gibt es Informationen zu vergangenen und bevorstehenden Veranstaltungen rund um den Flugplatz und den Aero-Club. 
  
-* <a href = "/flugplatzfest">09.07.2017, Sonntag, Tag der offenen Tür , Sonderflugplatz Baden-Oos</a>
+* <a href = "/flugplatzfest">09.07.2017, Sonntag, Tag der offenen Tür, Sonderlandeplatz Baden-Oos</a>
 * <a href = "/riesenwiesenfest">16.07.2017, Sonntag, Riesenwiesenfest mit Astir-Präsentation, Lichtentaler Allee, Baden-Baden</a>
 * <a href = "/marktplatzfest"> 21.07 bis 23.7.2017, Vereinsstand mit Flammkuchen beim Marktplatzfest Baden-Baden, Altstadt</a>
 * <a href = "">28. August bis 8. September 2017,  Schulungs- und Fluglager, Sonderlandeplatz Baden-Oos</a>
