@@ -6,15 +6,23 @@ slug: "marktplatzfest"
 author: "Axel Schulze"
 HeaderImgUrl: "/img/header/mpf_header.jpg"
 ---
+
 erfolgreicher Vereinsauftritt auf dem Marktplatzfest in Baden-Baden.
-Dank hervorragender Zusammenarbeit der Aeroclub–Mannschaft bei bester Laune hatten wir einen überzeugenden 3- tägigen Auftritt auf dem Stadtfest.
+
 {{< image path="/img/news/2017/marktplatzfest/mpf_anker.jpg" caption="Captain Jörg" alt="" >}}
-<!--more-->
+
+Dank hervorragender Zusammenarbeit der Aeroclub–Mannschaft bei bester Laune hatten wir einen überzeugenden 3- tägigen Auftritt auf dem Stadtfest.<!--more-->
+
 Herzlichen Dank Euch allen - besonders auch an Daniel und sein starkes Team, das köstliche Flammkuchen in bester Holzofen-Thermik produzierte und für zahlreiche und zufriedene Kundschaft sorgte.
+
 {{< image path="/img/news/2017/marktplatzfest/daniel.jpg" caption="" >}}
+
 Während der relativ kurzen Wartezeit bei der Flammkuchen-Ausgabe waren die meisten Gäste gerne bereit, uns mit ihrer Unterschrift zu unterstützen. 
+
 {{< image path="/img/news/2017/marktplatzfest/unterschrift.jpg" caption="" >}}
+
 Unsere Präsenz auf dem Marktplatzfest hat sicherlich einen guten und nachhaltigen Eindruck hinterlassen.
+
 {{< image path="/img/news/2017/marktplatzfest/warten.jpg" caption="" >}}     
 
 Fotoreportage 
