@@ -4,10 +4,10 @@ draft: false
 title: "Elias und Jonas Weber fliegen allein! "
 slug: "alleinflug_webers"
 author: "Sergej Miller"
-HeaderImgUrl: "/img/news/2017/alleinflug_webers/header.jpg"
+HeaderImgUrl: "/img/header/aw_header.jpg"
 ---
 Erst in diesem Jahr mit dem Segelfliegen angefangen, haben die Brüder Jonas und Elias Weber große Fortschritte in der Ausbildung gemacht und nun auch schon die ersten Alleinflüge durchgeführt.
-{{< image path="/img/news/2017/alleinflug_webers/anker.jpg" caption="" alt="" >}}
+{{< image path="/img/header/aw_anker.jpg" caption="" alt="" >}}
  <!--more-->
 Beide sind auf dem Flugplatz durch Disziplin,  Fleiß und Hilfsbereitschaft aufgefallen. Dabei hat der jüngere Bruder Elias erst in Mai mit 14 Jahren die Flugausbildung begonnen und konnte, ebenso wie Jonas, durch regelmäßige Präsenz auf dem Flugplatz und engagierten Einsatz unserer Fluglehrer die erforderliche Erfahrung und Kompetenz sammeln. 
 Viel Spaß beim Fliegen und weiterhin schöne Flüge!
