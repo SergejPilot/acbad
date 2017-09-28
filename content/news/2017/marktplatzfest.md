@@ -8,7 +8,7 @@ HeaderImgUrl: "/img/header/mpf_header.jpg"
 ---
 erfolgreicher Vereinsauftritt auf dem Marktplatzfest in Baden-Baden.
 Dank hervorragender Zusammenarbeit der Aeroclub–Mannschaft bei bester Laune hatten wir einen überzeugenden 3- tägigen Auftritt auf dem Stadtfest.
-{{< image path="/img/header/mpf_anker.jpg" caption="" alt="" >}}
+{{< image path="/img/news/2017/marktplatzfest/mpf_anker.jpg" caption="Captain Jörg" alt="" >}}
 <!--more-->
 Herzlichen Dank Euch allen - besonders auch an Daniel und sein starkes Team, das köstliche Flammkuchen in bester Holzofen-Thermik produzierte und für zahlreiche und zufriedene Kundschaft sorgte.
 {{< image path="/img/news/2017/marktplatzfest/daniel.jpg" caption="" >}}
