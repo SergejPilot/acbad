@@ -6,10 +6,14 @@ slug: "flugplatzfest"
 author: "Axel Schulze"
 HeaderImgUrl: "/img/header/header-flugfest.jpg"
 ---
-Dank guter Vorbereitung, tollem Einsatz und unfallfreiem Verlauf können wir auf ein gelungenes Flugfest am 09. Juli zurückblicken.  <!--more-->
-[Fotoreportage]({{< relref "flugplatzfest.md#fotoreportage" >}})         
+
+Dank guter Vorbereitung, tollem Einsatz und unfallfreiem Verlauf können wir auf ein gelungenes Flugfest am 09. Juli zurückblicken.  
+
+{{< image path="/img/news/2017/flugplatzfest/anker.jpg" caption="" alt="1" >}}
+
+Es waren zahlreiche Familien mit Kindern da, die sich offensichtlich sehr wohl bei uns fühlten.Viele alte Bekannte und Weggefährten kamen vorbei, erkundigten sich nach unserem Schicksal und sicherten uns Verständnis und Unterstützung zu.<!--more-->
+
 --                                                                                 
-Es waren zahlreiche Familien mit Kindern da, die sich offensichtlich sehr wohl bei uns fühlten.Viele alte Bekannte und Weggefährten kamen vorbei, erkundigten sich nach unserem Schicksal und sicherten uns Verständnis und Unterstützung zu.
 {{< image path="/img/news/2017/flugplatzfest/family.jpg" caption="" alt="3" >}}
 Wir haben uns über die große Bereitschaft unserer Gäste gefreut, spätestens am Ausgang bei unserem Info-Team sich auch mit ihrer Unterschrift für den Erhalt unseres Flugplatzes einzusetzen. 
 {{< image path="/img/news/2017/flugplatzfest/subscribe.jpg" caption="" alt="7" >}}
