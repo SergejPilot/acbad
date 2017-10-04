@@ -12,11 +12,11 @@ Hier gibt es Informationen zu vergangenen und bevorstehenden Veranstaltungen run
 * <a href = "/marktplatzfest"> 21.07 bis 23.7.2017, Vereinsstand mit Flammkuchen beim Marktplatzfest Baden-Baden, Altstadt</a>
 * <a href = "">28. August bis 8. September 2017,  Schulungs- und Fluglager, Flugplatz Baden-Oos</a>
 * <a href = "http://www.unser-ferienprogramm.de/awo-baden-baden/veranstaltung.php?id=21969&s=&a=0&k=">09.09.2017, Samstag, 13:00 -15:00, Kinderspaßfliegen, Flugplatz Baden-Oos</a>
----
-Der Aero-Club Baden-Baden e.V. lädt Kinder zwischen 8 und 16 Jahren zum Schnupperfliegen im doppelsitzigen Segelflugzeug über Baden-Baden ein. Gestartet wird hauptsächlich an der Winde oder eventuell zusätzlich mit Flugzeugschlepp.
-Die Anmeldung ist über die <a href = "http://www.unser-ferienprogramm.de/awo-baden-baden/veranstaltung.php?id=21969&s=&a=0&k=">AWO</a> möglich. 
-Es gibt noch freie Plätze!
 
-* <a href = "http://aero-club.eu/flugtag-fuer-behinderte-kinder">07.10.17, Samstag, Flugtag für behinderte & chronisch kranke Kinder, Flugplatz Baden-Oos</a>
+* <a href = "/img/events/AEC_Einladung_Kinderfliegen_2017.jpg">07.10.17, Samstag, 11:00 - 17:00, Flugtag für behinderte & chronisch kranke Kinder, Flugplatz Baden-Oos</a>
+---
+wetterbedingte Ausweichtermine: Sonntag 8.10.17, Samstag 14.10.17 oder Sonntag 15.10.17.
+Briefing, Aushallen und Startaufbau jeweils um 9:30 Uhr.
+
 
 
