@@ -9,7 +9,7 @@ HeaderImgUrl: "/img/header/header_2_kinderflugtag.jpg"
 Unser zweiter Flugtag für die Lebenshilfe war ein toller Erfolg - herzlichen Dank allen Mitwirkenden aus beiden Vereinen und an die Scherer-Stiftung.
 [Baden-TV SWR3 Video] (https://www.swr.de/swraktuell/bw/karlsruhe/schnupperfliegen-fuer-kinder-mit-behinderungen-vor-freude-in-die-luft-gehen/-/id=1572/did=20452944/nid=1572/1mghjsg/index.html)
 --
-[Badisches Tageblatt] (/presseberichte/bt_2017_10_7/) 
+[Badisches Tagblatt] (/presseberichte/bt_2017_10_7/) 
 --
 [Fotoreportage]({{< relref "2-flugtag-fuer-behinderte.md#fotoreportage" >}})
 --
