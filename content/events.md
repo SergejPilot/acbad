@@ -10,7 +10,7 @@ Hier gibt es Informationen zu vergangenen und bevorstehenden Veranstaltungen run
 -------
 * <a href = "/ausbildung#ausbildungsablauf">19.11.2017 bis 25.02.2018, Theorieunterricht im Winter</a>
 ---
-Alle potenzielle Mitglieder sind auch herzlich eingeladen, die Teilnahme ist kostenlos und unverbindlich.
+Neben unseren Flugschülern und aktiven Piloten sind auch interessierte potenzielle Mitglieder herzlich eingeladen. Die Teilnahme ist kostenlos und unverbindlich.
 Interesse? Kontaktieren Sie bitte unseren Ausbildungsleiter Klaus Heege (Tel.: [+49 172 6861050](tel:+491726861050), E-Mail: <klaus.heege@pt.lu>).
 ### 
 -------
