@@ -13,7 +13,7 @@ Haben Sie Fragen oder wollen Sie mehr erfahren? Kommen Sie ins persönliche Gesp
 
 Bei Fragen zur Ausbildung können Sie sich auch direkt an unseren Ausbildungsleiter Klaus Heege wenden:
 
-* per E-Mail unter <klaus.heege@pt.lu>
+* per E-Mail unter <ausbildung@aero-club.eu>
 * per Telefon unter [+49 (172) 686 1050](tel:+491726861050).
 
 Besuchen sie uns auch auf [Facebook](https://www.facebook.com/acbadenbaden/)!
