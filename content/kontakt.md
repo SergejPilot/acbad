@@ -2,7 +2,7 @@
 date: "2015-05-13T00:12:20+02:00"
 draft: false
 title: "Kontakt"
-description: "Kontaktdaten des Aero-Club Baden-Baden e.V. (E-Mail,  Telefon, Anschrift)"
+description: "Kontaktdaten des Aero-Club Baden-Baden e.V. (E-Mail, Telefon, Anschrift)"
 HeaderImgUrl: "/img/header/header_kontakt.jpg"
 ---
 
@@ -32,8 +32,8 @@ Dann weiterfahren, bis die Hallen kommen.
 Anschrift
 ---------
 
-Aero-Club Baden-Baden e.V.  
-Am Kreithgraben 25  
+Aero-Club Baden-Baden e.V.
+Am Kreithgraben 25
 76532 Baden-Baden
 
 ### Vertreten durch:
@@ -41,10 +41,10 @@ Am Kreithgraben 25
 1. Vorsitzender: [Wolfram Groetschel](mailto:vs1@aero-club.eu) (Tel.: [+49 (7223) 30 80 7](tel:+49722330807))
 2. Vorsitzender: [Jörg Zwosta](mailto:vs2@aero-club.eu) (Tel.: [+49 (7221) 6 33 21](tel:+49722163321))
 
-USt-IdNr.: DE143460361  
-Eingetragen im Vereinsregister. Registergericht: Amtsgericht Baden-Baden, Nummer VR 31
+USt-IdNr.: DE143460361
+Eingetragen im Vereinsregister. Registergericht: Amtsgericht Mannheim, Nummer VR 200031
 
-### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:  
+### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 Wolfram Groetschel (Anschrift wie oben)
 
 **Design der Website von Felix Stadthaus**
