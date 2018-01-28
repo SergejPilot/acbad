@@ -38,7 +38,7 @@ Am Kreithgraben 25
 
 ### Vertreten durch:
 
-1. Vorsitzender: [Wolfram Groetschel](mailto:vs1@aero-club.eu)
+1. Vorsitzender: [Wolfram Groetschel](mailto:vs1@aero-club.eu) (Tel.: [+49 (7223) 30 80 7](tel:+49722330807))
 2. Vorsitzender: [Jörg Zwosta](mailto:vs2@aero-club.eu) (Tel.: [+49 (7221) 6 33 21](tel:+49722163321))
 
 USt-IdNr.: DE143460361  
