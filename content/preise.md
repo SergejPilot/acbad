@@ -1,11 +1,10 @@
-﻿---
+---
 date: "2015-05-13T14:40:50+02:00"
 draft: false
 title: "Gebühren"
 HeaderImgUrl: "/img/header/header_fschlepp3278.jpg"
 description: "Preisliste des Aero-Club Baden-Baden e.V. für Schnupperflüge, Fördermitgliedschaft und Vereinsmitgliedschaft."
 ---
-
 Segelfliegen im Verein ist günstiger als viele denken. Im Folgenden finden Sie einen Überblick über unsere Gebühren für  [Vereinsmitgliedschaft]({{< relref "preise.md#vollmitgliedschaft" >}}), [Fördermitglieder]({{< relref "preise.md#fördermitgliedschaft" >}}) und [Einführungsflüge]({{< relref "preise.md#einführungsflüge" >}}).
 
 Vereinsmitgliedschaft
@@ -18,8 +17,8 @@ Wird man Neumitglied, entrichtet man noch eine Aufnahmegebühr und löst mindest
 | Beschreibung              | Jugendliche (bis 21 J.) | Erwachsene |
 | :------------------------ | :--------------------:  | :--------: |
 | Aufnahmegebühr (einmalig) | 140,00 €                | 280,00 €   |
-| Ablösegebühr (einmalig)   | 140,00                  | 280,00 €   |
-| Jahresbeiträge            | 340,00                  | 470,00 €   |
+| Ablösegebühr (einmalig)   | 140,00 €                | 280,00 €   |
+| Jahresbeiträge            | 340,00 €                | 470,00 €   |
 
 Sie zahlen die folgenden Gebühren pro Start:
 
