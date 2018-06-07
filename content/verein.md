@@ -20,13 +20,13 @@ In den 1990er Jahre beschloss die Stadt Baden-Baden die Schließung des Flugplat
 
 ### Wichtige Kontaktpersonen im Verein:
 
-* 1. Vorsitzender: [Axel Schulze](mailto:vs1@aero-club.eu) (Tel.: [+49 (7221) 7 22 45](tel:+49722172245))
+* 1. Vorsitzender: [Wolfram Groetschel](mailto:vs1@aero-club.eu) (Tel.: [+49 (7223) 30 80 7](tel:+49722330807))
 * 2. Vorsitzender: [Jörg Zwosta](mailto:vs2@aero-club.eu) (Tel.: [+49 (7221) 6 33 21](tel:+49722163321))
 * Kassier: Harald Brenner
 * Schriftführerin: Martina Hodapp
-* Ausbildungsleiter: [Klaus Heege](mailto:klaus.heege@pt.lu) (Tel.: [+49 (172) 686 1050](tel:+491726861050))
-* Technischer Leiter: Bernd Schmid  
-* Referent Segelflug: Alexander Schmid
+* Ausbildungsleiter: [Klaus Heege](mailto:ausbildung@aero-club.eu) (Tel.: [+49 (172) 686 1050](tel:+491726861050))
+* Technischer Leiter: Andi Oberle
+* Referent Segelflug: Jonas Weber
 * Referent Motorflug: Wolfram Groetschel
 * Referent Clubanlage: Steffen Patze
 * Jugendleiter: [Felix Stadthaus](mailto:jugend@aero-club.eu)

@@ -15,3 +15,5 @@ Reservierungen und Kontaktaufnahme unter [+49 (7221) 61 61 6](tel:+49722161616).
 --------------
 
 Geöffnet ist Dienstag bis Freitag von 11:30 bis 14:30 und 17:00 - 23:00, samstags 17:00 - 23:00, sonntags durchgehend von 11:30 - 23:00. **Montag ist Ruhetag.**
+
+**Am 30.10.2017 ist außerplanmäßig ab 17 Uhr geöffnet!**
