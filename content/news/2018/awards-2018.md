@@ -16,6 +16,6 @@ Renate und Klaus Heege machten sich währenddessen mit ihrer Piper PA 28 Cheroke
 Wir gratulieren Alex, Klaus und Renate herzlich - vielleicht geht da ja noch mehr!
 --
 
-{{< image path="/img/news/2018/awards/EFHO-Heege.jpg" caption="" >}}
+{{< image path="/img/news/2018/awards/EFHO-Heege.jpg" caption="Klaus Heege am seinen Flugzeug" >}}
 
 
