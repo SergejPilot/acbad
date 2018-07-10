@@ -8,13 +8,11 @@ description: "Events um den  Flugplatz und  Aeroclub"
 Hier gibt es Informationen zu vergangenen und bevorstehenden Veranstaltungen rund um den Flugplatz und den Aero-Club.  
 ### 
 -------
-* <a href = "/2-flugplatzfest">17.06.2018, Sonntag, Tag der offenen Tür, Sonderflugplatz Baden-Oos</a>
----
-Alle interessierte sind herzlich willkommen! 
 ### 
-* <a href = "/riesenwiesenfest">08.07.2018, Sonntag, Riesenwiesenfest mit Astir-Präsentation, Lichtentaler Allee, Baden-Baden</a>
+* <a href = "">08.07.2018, Sonntag, Riesenwiesenfest mit Astir-Präsentation, Lichtentaler Allee, Baden-Baden</a>
 ### 
 -------
+* <a href = "/2-flugplatzfest">17.06.2018, Sonntag, Tag der offenen Tür, Flugplatz Baden-Oos</a>
 * <a href = "/ausbildung#ausbildungsablauf">19.11.2017 bis 25.02.2018, Theorieunterricht im Winter</a>
 * <a href = "/flugplatzfest">09.07.2017, Sonntag, Tag der offenen Tür, Flugplatz Baden-Oos</a>
 * <a href = "/riesenwiesenfest">16.07.2017, Sonntag, Riesenwiesenfest mit Astir-Präsentation, Lichtentaler Allee, Baden-Baden</a>

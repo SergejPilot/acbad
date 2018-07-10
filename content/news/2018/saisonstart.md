@@ -7,13 +7,13 @@ author: "Sergej Miller"
 HeaderImgUrl: "/img/news/2018/saisonstart/5.jpg"
 ---
 
-Nachdem der Flugplatz Baden-Oos nach den Frühlingswetterkapriolen endlich getrocknet und startklar wurde, haben Aero Club Baden-Baden und Fliegergruppe Gaggenau gleich die Sachen eingepackt und mehrere Check- und Schulungsflüge im Laufe zwei Wochen durchgeführt.
+Als nach den Wetterkapriolen im Frühjahr der Flugplatz Baden-Oos endlich wieder trocken und befliegbar war, haben der Aero-Club Baden-Baden und die Fliegergruppe Gaggenau sofort ihre Flieger ausgepackt. Eine Vielzahl von Überprüfungs- und Schulungsflüge konnten im Laufe von zwei Wochen durchgeführt werden.
 
 {{< image path="/img/news/2018/saisonstart/3.jpg" caption="Höchste Konzentration vor dem Windenstart." alt="" >}} 
 
 <!--more-->
 
-Die von FGG zu Verfügung gestellte Winde war völlig ausgelastet und hat mehrere Piloten kraftvoll und souverän in die Luft gefordert, dabei wurden sehr gute Ausklinkenhöhen erreicht. Mehrere Segelflugzeuge waren gleichzeitig in der Luft, bei Streckenflügen über Schwarzwald sowie in der Platzrunde. Die Jugendmannschaft um die Brüder Weber war wie immer omnipräsent, beim Windenstart, Rückholen von Segelflugzeugen und selbstverständlich in der Luft. Die erfahrenen Streckenflieger haben schöne und lange Flüge entlang  Wolkenstraßen über Schwarzwald und Schwäbischen Alb durchgeführt. Vielen Dank an Fluglehrer Klaus Heege, Tillman Schachtschneider, Ulrich Rappen und Till Werner, welche den Start in den neuen Flugsaison ermöglicht haben. Vielen Dank auch an die Piloten und Bodenmannschaft der Fliegergruppe Gaggenau, welche reibungslosen und pünktlichen Flugbetrieb für beiden beheimateten auf dem Flugplatz Vereine gewährleistet haben.
+Die von der Fliegergruppe Gaggenau bereitgestellte Winde war gut ausgelastet und beförderte die Piloten und ihre Flugzeuge kraftvoll und souverän in die Luft. Dabei wurden sehr gute Ausklinkenhöhen erreicht. Mehrere Segelflugzeuge tummelten sich gleichzeitig in der Luft - bei Streckenflügen über dem Schwarzwald oder in der Umgebung des Flugplatzes. Die Jugendmannschaft um die Brüder Weber war wie immer omnipräsent, beim Windenstart, Rückholen von Segelflugzeugen und selbstverständlich in der Luft. Die erfahrenen Streckenflieger haben schöne und lange Flüge entlang der Wolkenstraßen über dem Schwarzwald und der Schwäbischen Alb durchgeführt. Vielen Dank an unsere Fluglehrer Klaus Heege, Tilman Schachtschneider, Ulrich Rappen und Till Werner, die den Start in die neue Flugsaison ermöglicht haben. Danke auch an die Piloten und Bodenmannschaften der Fliegergruppe Gaggenau, die für die beiden am Flugplatz Baden-Oos beheimateten Vereine einen reibungslosen und pünktlichen Flugbetrieb gewährleistet haben.
  
 {{< image path="/img/news/2018/saisonstart/1.jpg" caption="" alt="" >}} 
 <p></p>

@@ -1,7 +1,7 @@
 ---
 date: "2018-06-05T14:00:00+02:00"
 draft: false
-title: "Zweimal Platz 6 für unseren Piloten"
+title: "Zweimal Platz 6 für unsere Piloten"
 slug: "awards-2018"
 author: "Sergej Miller"
 HeaderImgUrl: "/img/header/wettbewerb.jpg"
@@ -16,6 +16,6 @@ Renate und Klaus Heege machten sich währenddessen mit ihrer Piper PA 28 Cheroke
 Wir gratulieren Alex, Klaus und Renate herzlich - vielleicht geht da ja noch mehr!
 --
 
-{{< image path="/img/news/2018/awards/EFHO-Heege.jpg" caption="Klaus Heege am seinen Flugzeug" >}}
+{{< image path="/img/news/2018/awards/EFHO-Heege.jpg" caption="Klaus Heege an seinem Flugzeug." >}}
 
 
