@@ -14,11 +14,15 @@ Als Mitglied zahlt man einen fixen jährlichen Betrag sowie Gebühren für die e
 
 Wird man Neumitglied, entrichtet man noch eine Aufnahmegebühr und löst mindestens ein Flugzeug (meist den Schulungsdoppelsitzer, eine ASK 21) ab - d.h. man zahlt einen bestimmten Betrag und darf dieses Flugzeug dann unbegrenzt nutzen.
 
-| Beschreibung              | Jugendliche (bis 21 J.) | Erwachsene |
-| :------------------------ | :--------------------:  | :--------: |
-| Aufnahmegebühr (einmalig) | 140,00 €                | 280,00 €   |
-| Ablösegebühr (einmalig)   | 140,00 €                | 280,00 €   |
-| Jahresbeiträge            | 340,00 €                | 470,00 €   |
+| Beschreibung              			| Jugendliche (bis 21 J.) | Erwachsene |
+| :--------------------------------		| :--------------------:  | :--------: |
+| Aufnahmegebühr (einmalig) 			| 200,00 €                | 400,00 €   |
+| Jahresbeitrag Aero-Club 				| 110,00 €                | 220,00 €   |
+| Pauschalbeitrag extern				|  80,00 €                | 120,00 €   |
+| Versicherungsumlage					|  50,00 €                |  50,00 €   |
+| Flugplatz Nutzungsgebühr				| 100,00 €                | 100,00 €   |
+| 										| 						  |  		   |
+| Summe jährliche Kostenpauschalen		| 340,00 €                | 490,00 €   |
 
 Sie zahlen die folgenden Gebühren pro Start:
 
@@ -30,7 +34,7 @@ Sie zahlen die folgenden Gebühren pro Start:
 | Flugzeugschlepp 1000 m   | 30,00 € |
 | Flugzeugschlepp 1200 m   | 36,00 € |
 
-Um diese geringen Kosten zu ermöglichen, beteiligen sich alle Mitglieder an den anfallenden Arbeiten. Sie können das Minimum von 65 Arbeitsstunden im Jahr nicht erfüllen? Kein Problem, in dem Fall können Sie alternativ eine Ausgleichszahlung leisten.
+Um diese geringen Kosten zu ermöglichen, beteiligen sich alle Mitglieder an den anfallenden Arbeiten.
 
 Fördermitgliedschaft
 --------------------
@@ -56,4 +60,6 @@ Der Schnupperkurs umfasst 1 Flugzeugschlepp und 2 Windenstarts mit theoretischer
 
 Segelfliegen ist vom Wetter abhängig. Deshalb können wir die Flugzeit leider nicht immer auf die Minute genau garantieren.
 
-Ein Einführungsflug lässt sich auch verschenken - fragen Sie einfach in der Gaststätte Looping am Flugplatz nach Gutscheinen.
+Ein Einführungsflug lässt sich auch verschenken - fragen Sie dazu einfach in unserer Gaststätte Looping am Flugplatz nach Flugscheinen. (Di-So ab 17 Uhr oder nach telefonischer Rücksprache mit der Gaststätte).
+<em>Bitte beachten: Nur Barzahlung ist möglich.<em>
+

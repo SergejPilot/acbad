@@ -20,9 +20,9 @@ Den Flug kann man sich dann sehr anschaulich online anschauen - inklusive Flugro
 
 Hier finden sie ein paar Links zu Auszügen aus den Bewertungen des OLC:
 
-* [Vereinsinterne Wertung Aero-Club Baden-Baden](http://www.onlinecontest.org/olc-2.0/gliding/club.html?cc=22&st=olcp&rt=olc&c=C0&sc=&sp=2017)
-* [Rangliste Vereinswertung Baden-Württemberg](http://www.onlinecontest.org/olc-2.0/gliding/clubRanking.html?st=olcp&rt=olc&c=DE&sc=bw&sp=2017)
-* [Rangliste Flugplätze Baden-Württemberg](http://www.onlinecontest.org/olc-2.0/gliding/airfieldRanking.html?rt=olc&sp=2017&st=olc&c=DE&sc=bw)
+* [Vereinsinterne Wertung Aero-Club Baden-Baden](http://www.onlinecontest.org/olc-2.0/gliding/club.html?cc=22&st=olcp&rt=olc&c=C0&sc=&sp=2018)
+* [Rangliste Vereinswertung Baden-Württemberg](http://www.onlinecontest.org/olc-2.0/gliding/clubRanking.html?st=olcp&rt=olc&c=DE&sc=bw&sp=2018)
+* [Rangliste Flugplätze Baden-Württemberg](http://www.onlinecontest.org/olc-2.0/gliding/airfieldRanking.html?rt=olc&sp=2018&st=olc&c=DE&sc=bw)
 * [Tageswertung weltweit](http://www.onlinecontest.org/olc-2.0/gliding/daily.html)
 
 Weitere Infos unter [www.onlinecontest.org](http://www.onlinecontest.org).

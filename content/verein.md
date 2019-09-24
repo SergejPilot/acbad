@@ -8,7 +8,7 @@ description: "Der Aero-Club Baden-Baden e.V. ist ein gemeinnütziger Verein zur 
 
 Der Aero-Club Baden-Baden e.V. ist ein gemeinnütziger Verein zur Ausübung des Segelflug- und Motorflugsports, ansässig am [Flugplatz Baden-Oos](http://www.flugplatz-baden-oos.de).
 
-Gegründet am 8. September 1950, spielt der Aeroclub eine aktive Rolle im deutschen Segelflugsport und der Ausbildung der zukünftigen Piloten. Er bietet Schnupperflüge, Schnupperkurse und Pilotenkurse für Segelflieger an.
+Gegründet am 8. September 1950, spielt der Aero-Club eine aktive Rolle im deutschen Segelflugsport und bei der Ausbildung zukünftiger Piloten. Er bietet Schnupperflüge und Schnupperkurse an und betreibt die Ausbildung zum Segelflieger.
 
 Historischer Exkurs
 -------------------
@@ -20,15 +20,15 @@ In den 1990er Jahre beschloss die Stadt Baden-Baden die Schließung des Flugplat
 
 ### Wichtige Kontaktpersonen im Verein:
 
-* 1. Vorsitzender: [Wolfram Groetschel](mailto:vs1@aero-club.eu) (Tel.: [+49 (7223) 30 80 7](tel:+49722330807))
-* 2. Vorsitzender: [Jörg Zwosta](mailto:vs2@aero-club.eu) (Tel.: [+49 (7221) 6 33 21](tel:+49722163321))
-* Kassier: Harald Brenner
-* Schriftführerin: Martina Hodapp
-* Ausbildungsleiter: [Klaus Heege](mailto:ausbildung@aero-club.eu) (Tel.: [+49 (172) 686 1050](tel:+491726861050))
+* 1. Vorsitzender: [Patrik Ullrich](mailto:vs1@aero-club.eu) 
+* 2. Vorsitzender: [Alexander Schmid](mailto:vs2@aero-club.eu) 
+* Kassier: Tilman Schachtschneider
+* Schriftführer: Karl Boyé
+* Werkstattleiter: Martin Strauß 
 * Technischer Leiter: Andi Oberle
 * Referent Segelflug: Jonas Weber
-* Referent Motorflug: Wolfram Groetschel
-* Referent Clubanlage: Steffen Patze
+* Referent Motorflug: Martin Metzger
+* Referent Clubanlage: Hubert Fischer
 * Jugendleiter: [Felix Stadthaus](mailto:jugend@aero-club.eu)
 
 Unsicher, an wen Sie sich wenden sollen? Bei Fragen zur Ausbildung können Sie sich direkt an unseren Ausbildungsleiter wenden, anderenfalls kontaktieren sie uns:

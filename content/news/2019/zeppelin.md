@@ -1,0 +1,20 @@
+---
+date: "2019-09-12T14:00:00+02:00"
+draft: false
+title: "Zeppelin-Rundflüge vom Flugplatz Baden-Oos"
+slug: "zeppelin"
+author: "Sergej Miller"
+HeaderImgUrl: "/img/header/opendoor-2019.jpg"
+---
+Das große Highlight vom Flugsaison waren die vom 12 bis 15 September im Rahmen von New Pop Festival durchgeführte Rundfluge des Zeppelins, welcher die ganze Zeit auf dem Flugplatz Baden-Oos stationiert wurde. 
+<!--more-->
+Die geschlossene Mannschaft vom Aeroclub hat wieder tolle Leistung bei der organisatorischen und fliegerischen Unterstützung sowie Catering gebracht.
+
+----------------
+Darüber wurde auch in der überregionalen Presse ausführlich berichtet:
+<p></p>
+* <a href = "https://bnn.de/lokales/baden-baden/grosse-buehne-fuer-die-riesenzigarre-auf-rundflug-mit-dem-zeppelin">Am Himmel über Baden-Baden: auf Rundflug mit dem Zeppelin.</a> 
+<p></p>
+* <a href = "https://bnn.de/lokales/baden-baden/der-zeppelin-startet-bis-sonntag-am-flugplatz-oos-zu-rundfluegen-ueber-die-region">Der Zeppelin startet am Flugplatz Baden-Baden Oos zu Rundflügen.</a> 
+
+

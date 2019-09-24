@@ -73,7 +73,12 @@ menu:
       Weight: 50
       Identifier: "wetter"
       URL: "/wetter/"
-      Parent: "aktuelles"
+      Parent: "aktuelles"      
+    - Name: "Webcam"
+      Weight: 60
+      Identifier: "webcam"
+      URL: "http://aero-club.eu/public/x-webcam/"
+      Parent: "aktuelles"      
 
     - Name: "Kontakt"
       Weight: 40

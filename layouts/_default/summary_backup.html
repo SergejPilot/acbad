@@ -1,0 +1,9 @@
+<article>
+  <h2 class="articlesummaryheadline">{{ .Title}}</h2>
+
+  {{ .Summary }}
+
+  <div class="articlesummaryfooter">
+    {{ .Date.Format "02.01.2006" }} von {{ .Params.author }} - <a href="{{ .RelPermalink }}">Mehr lesen</a>
+  </div>
+</article>

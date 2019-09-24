@@ -1,7 +1,34 @@
 <article>
+
 <h3 class="articlesummaryheadline">{{ .Title}}</h3>
 <p></p>
   <div class="articlesummaryfooter">
     {{ .Date.Format "02.01.2006" }} - {{ .Params.press }} - <a href="{{ .RelPermalink }}">Mehr lesen</a>
   </div>
+ 
+<!--
+<div id="top" style="color: #404040; background-color: #FFFFFF">
+  <div class="container npr npl">
+    <div class="row">
+              <div class="col-md-3 col-sm-4 hidden-xs">
+                    <div class="header-top-left" >
+					<img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">					
+
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-4 col-xs-12">
+                    <div class="title">
+					<h3 class="articlesummaryheadline">{{ .Title}}</h3>																		
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-4 hidden-xs">
+				
+                    <ul>
+                        <li>{{ .Date.Format "02.01.2006" }} - {{ .Params.press }} - <a href="{{ .RelPermalink }}">Mehr lesen</a></li>
+                    </ul>
+                </div>	  
+    </div>
+  </div>
+</div>
+--> 
 </article>

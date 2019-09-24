@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  {{ partial "head.html" . }}
+
+  {{ partial "newsstyle.html" . }}
+</head>
+<body>
+  {{ partial "navigation.html" . }}
+<div id="main">
+  <header>
+  </header>
+  <main>
+    <h1>News</h1>
+    {{ range .Data.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+  </main>
+</div>
+{{ partial "footer.html" . }}

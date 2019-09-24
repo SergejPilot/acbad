@@ -1,8 +1,8 @@
 ---
-date: "2015-06-02T14:11:29+02:00"
+date: "2019-03-12T14:11:29+02:00"
 draft: false
-title: "D-EKCH (Husky)"
-image: "/img/flugzeugpark/ekch.jpg"
+title: "D-EHAR (Husky)"
+image: "/img/flugzeugpark/ehar.jpg"
 weight: 6
 ---
 

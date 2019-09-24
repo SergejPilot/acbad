@@ -8,7 +8,7 @@ description: "Der Aero-Club Baden-Baden e.V. ist ein gemeinnütziger Verein zur 
 
 Der Aero-Club Baden-Baden e.V. ist ein gemeinnütziger Verein zur Ausübung des Segelflug- und Motorflugsports.
 
-Wir ermöglichen unseren Mitgliedern die [Ausbildung]({{< relref "ausbildung.md">}}) zum Segelflug- oder Motorseglerpiloten sowie die Nutzung unseres umfangreichen Flugzeugparks.
+Wir betreiben die [Ausbildung]({{< relref "ausbildung.md">}}) von Segelflugpiloten und bieten unseren Mitgliedern die Nutzung eines umfangreichen Flugzeugparks.
 
 Hier fliegen wir
 ----------------
