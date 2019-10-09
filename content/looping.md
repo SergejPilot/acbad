@@ -7,13 +7,18 @@ description: "Telefonnummer und Öffnungszeiten der Gaststätte Looping beim Flu
 ---
 Die direkt neben unserer Flugzeughalle gelegene "Gaststätte Looping" bietet sich an, um nach dem Flugbetrieb oder als Ziel eines kleinen Tagesausflugs eine Pizza zu genießen.
 
-{{< image path="/img/pages/looping/looping.jpg" caption="Ein Blick auf die Terrasse von der Gaststätte Looping." alt="Gaststätte Looping" >}}
-
 Reservierungen und Kontaktaufnahme unter [+49 (7221) 61 61 6](tel:+49722161616).
 
 Öffnungszeiten
 --------------
+***Bis 21.10.2019:***
 
-Geöffnet ist Dienstag bis Freitag von 11:30 bis 14:30 und 17:00 - 23:00, samstags 17:00 - 23:00, sonntags durchgehend von 11:30 - 23:00. **Montag ist Ruhetag.**
+Geöffnet ist ab Dienstag bis Donnerstag von 11:30 bis 14:00, ab Freitag bis Sonntag 17:00 - 23:00. 
 
+***Sonst:***
+
+Geöffnet ist ab Dienstag bis Freitag von 11:30 bis 14:30 und 17:00 - 23:00, samstags 17:00 - 23:00, sonntags durchgehend von 11:30 - 23:00. 
+
+**Montag ist Ruhetag.**
+{{< image path="/img/pages/looping/looping.jpg" caption="Ein Blick auf die Terrasse von der Gaststätte Looping." alt="Gaststätte Looping" >}}
 
