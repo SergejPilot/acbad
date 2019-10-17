@@ -7,7 +7,7 @@ author: "Sergej Miller"
 HeaderImgUrl: "/img/header/opendoor-2019.jpg"
 ---
 
-Der traditionelle Tag der offenen Tür am Flugplatz Baden-Oos ist wieder sehr erfolgreich verlaufen, obwohl die glühende  Hitze  die volle  Konzentration und körperliche Anstrengung von aller Teilnehmer gefordert hat.   
+Der traditionelle Tag der offenen Tür am Flugplatz Baden-Oos ist wieder sehr erfolgreich verlaufen, obwohl die glühende Hitze allen Teilnehmern volle Konzentration sowie ein Höchstmaß an körperlicher Anstrengung abgefordert hat. 
 
 <!--more-->
 ----------------

@@ -7,12 +7,12 @@ author: "Sergej Miller"
 HeaderImgUrl: "/img/header/opendoor-2019.jpg"
 ---
 
-Der Stand vom Aeroclub mit dem Segelflugzeug LS-4 und Flugsimulator wurde auf dem Cité-Fest in Baden-Baden sehr gut besucht. Besonders Kinder habe das große Interesse gezeigt, so kann man auch neue Piloten und Mitglieder für das Aeroclub gewinnen.   
+Der Stand des Aero-Club mit dem Segelflugzeug LS-4 und dem Flugsimulator wurde auf dem Cité-Fest in Baden-Baden sehr gut besucht. Besonders Kinder zeigten großes Interesse. Sie können ja später bei uns fliegen lernen...    
 
 <!--more-->
 ----------------
 <p></p>
-Hier ist ein paar Rückblicke:
+Hier sind ein paar fotografische Rückblicke: 
 {{< image path="/img/news/2019/citefest/1.JPG" caption="" alt="1" >}}
 <p></p>
 {{< image path="/img/news/2019/citefest/2.JPG" caption="" alt="2" >}}
