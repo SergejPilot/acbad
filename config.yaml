@@ -80,7 +80,33 @@ menu:
       URL: "http://aero-club.eu/public/x-webcam/"
       Parent: "aktuelles"      
 
-    - Name: "Kontakt"
+
+
+    - Name: "Archiv"
       Weight: 40
+      Identifier: "archive"
+      URL: "/archive/" 
+
+    - Name: "News"
+      Weight: 10
+      Identifier: "archived_news"
+      URL: "/archived_news/"
+      Parent: "archive"
+
+
+    - Name: "Veranstaltungen"                             
+      Weight: 20                                 
+      Identifier: "events"                       
+      URL: "/events/"                            
+      Parent: "archive"  
+
+    - Name: "Presseberichte"
+      Weight: 30
+      Identifier: "presseberichte"
+      URL: "/presseberichte/"
+      Parent: "archive" 
+
+    - Name: "Kontakt"
+      Weight: 50
       Identifier: "kontakt"
       URL: "/kontakt/"

@@ -1,5 +1,4 @@
 <html>
-<head><meta http-equiv="refresh" content="20"></head>
 <header>
 <title>Unsere Webkamera</title>
 </header>
@@ -57,8 +56,8 @@ function GetLastModSubDir($DirectoryIn, $DirOnly)
 // info user 
 $act_date_time  = date('d-m-Y'); 
 $act_time  = date('H:i:s'); 
-echo 'Heute ist '. $act_date_time.", \n"; 
-echo 'aktuelle Zeit '. $act_time.", Ansicht der Webkamera vor der Halle, Richtung Nord-Ost <br>\n"; 
+echo 'Heute ist '. $act_date_time."<br>\n"; 
+echo 'Aktuelle Zeit: '. $act_time."<br>\n"; 
 
 $appendix_snapshot = "/img/webcam/share/4L0AAA9PAG0A879/Snapshot/";
 		   
@@ -67,12 +66,18 @@ $snapshotdir = $rootdir;
 $snapshotdir .= $appendix_snapshot;
 $act_date = date('Y-m-d'); 
 
+// aeroclub.webhosting.hostingparadise.de / www.aero-club.eu / public / img / webcam / share / 4L0AAA9PAG0A879 / Snapshot / 2019-06-12_001_12.59.55-12.59.55[R][0@0][0].jpg
 $lastFile = GetLastModSubDir($snapshotdir, false);
-//echo $lastFile."<br>\n";
- 		
-$output  = str_replace($rootdir, "", $lastFile); 
+echo $lastFile."<br>\n";
+echo $lastFile->getFilename() . "<br>\n";	
+if ( strcmp($lastFile->getExtension(),"jpg") == 0 )	
+		$jpgfile = $lastFile->getFilename();     
+$snapshotdir .="/"; 		
+$snapshotdir .=$jpgfile;
+echo $snapshotdir."<br>\n"; 
+$output  = str_replace($rootdir, "", $snapshotdir); 
 $snapshotdir = $output; 
-//echo $snapshotdir."<br>\n"; 
+echo $snapshotdir."<br>\n"; 
 echo "<img src=$snapshotdir caption='Aktueller Ansicht der Webkamera vor der Halle.' alt=''/>";
 
 ?>

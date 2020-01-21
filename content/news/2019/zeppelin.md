@@ -6,13 +6,13 @@ slug: "zeppelin"
 author: "Sergej Miller"
 HeaderImgUrl: "/img/news/2019/zeppelin/1.jpg"
 ---
-Zum New POP-Festival vom 12. – 15. September hatten wir erstmals den derzeit größten Zeppelin am Flugplatz zu Rundflügen zu Gast – ein historisches Ereignis, da die Geschichte des Flugplatzes ja 1910 mit der Zeppelin-Luftschifffahrt begann. 
+Zur Jubiläumsveranstaltung „25 Jahre SWR3 New Pop Festival“ hatten wir vom 12. – 15. September 2019 erstmals den derzeit größten Zeppelin am Flugplatz zu Rundflügen zu Gast – ein historisches Ereignis, da die Geschichte des Flugplatzes ja 1910 mit der Zeppelin-Luftschifffahrt begann. 
 
 {{< image path="/img/news/2019/zeppelin/4.jpg" caption="Zeppelin auf den Flugplatz." alt="" >}} 
 
 <!--more-->
 
-Mit seinen 75m Länge und 17,4 m Höhe ist der NT-Zeppelin aus Friedrichshafen schon eine stattliche Erscheinung. Begleitet wurde er von einem aufwendigen LKW-Tross mit zahlreicher Bodenmannschaft und Crew, die in unserer Halle ihr Logistik-Zentrum und einen VIP-Empfang eingerichtet hatten. Dadurch war in dieser Zeit natürlich unser normaler Flugbetrieb weitgehend blockiert, bis auf Begleitflüge für Filmaufnahmen mit unserer Piper-HT. Gleichzeitig wurde noch für die ARD-TV-Serie [„verstehen Sie Spaß?“](https://youtu.be/pYVjq4EZU1g) eine Filmszene mit dem PopSänger und Festival-Teilnehmer Max Giesinger gedreht und soll am 12. Dezember gesendet werden. Unser Flammkuchen-Team sorgte für die Bewirtung der zahlreichen Gäste. Ständig im Einsatz war auch unser neuer Segelflugsimulator, den unsere Jugendmannschaft auf Initiative von Jonas Weber selbst gebaut hat - mit Originalcockpit, Steuerknüppel und -pedalen, bei dem man auch nach einer Bruchlandung wieder heil aussteigen konnte.
+Mit seinen 75 m Länge und 17,4 m Höhe ist der Zeppelin NT aus Friedrichshafen schon eine stattliche Erscheinung. Begleitet wurde er von einem aufwendigen LKW-Tross mit großer Bodenmannschaft und Crew, die in unserer Halle ihr Logistik-Zentrum und einen VIP-Empfang eingerichtet hatten. Dadurch war in dieser Zeit natürlich unser normaler Flugbetrieb weitgehend blockiert, bis auf Begleitflüge für Filmaufnahmen mit unserer Piper PA 18 D-ELHT. Gleichzeitig wurde noch für die ARD-Sendung [„Verstehen Sie Spaß?“](https://youtu.be/pYVjq4EZU1g)  eine Filmszene mit dem Popsänger und Festival-Teilnehmer Max Giesinger gedreht, die am 21. Dezember gesendet wurde. Unser Flammkuchen-Team sorgte für die Bewirtung der zahlreichen Gäste. Ständig im Einsatz war auch unser neuer Segelflugsimulator, den unsere Jugendmannschaft auf Initiative von Jonas Weber selbst gebaut hat - mit Originalcockpit, Steuerknüppel und -pedalen, bei dem man auch nach einer Bruchlandung wieder heil aussteigen konnte.
 
 ----------------
 Darüber wurde auch in der überregionalen Presse ausführlich berichtet:

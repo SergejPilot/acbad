@@ -1,7 +1,7 @@
 ---
 date: "2019-09-22T14:00:00+02:00"
 draft: false
-title: "Cite-Fest am 22. September 2019"
+title: "Cité-Fest am 22. September 2019"
 slug: "citefest"
 author: "Sergej Miller"
 HeaderImgUrl: "/img/header/opendoor-2019.jpg"

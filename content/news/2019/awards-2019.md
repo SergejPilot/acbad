@@ -8,7 +8,7 @@ HeaderImgUrl: "/img/news/2019/zeppelin/4.jpg"
 ---
 
 
-Nicht zuletzt dank robust funktionierenden Flugplatz- und Vereinsbetrieb mit mehreren Events und Highlights wie [Zeppelin-Rundflüge](/zeppelin) haben unsere Piloten wieder beachtliche sportliche Erfolge erzielt. 
+Nicht zuletzt dank eines bestens funktionierenden Flugplatz- und Vereinsbetriebs mit zahlreichen Events und Highlights, wie beispielsweise die [Zeppelin-Rundflüge](/zeppelin), haben unsere Piloten wieder beachtliche sportliche Erfolge erzielt. 
 <!--more-->
 Im Segelflug:
 --
@@ -27,12 +27,12 @@ Im Motorflug:
 
 Glückwünsche: 
 --
- * An Felix Stadthaus zur bestandenen Fluglehrer-Prüfung, sodass er jetzt als Fluglehrer-Assistenten tätig werden kann. 
- * An Thorsten Grether zum Motorflugschein 
- * An Elias Weber zum Segelflugschein und seine hervorragende Wertung als Aufsteiger in der Juniorenklasse 
+* An Felix Stadthaus zur bestandenen Fluglehrer-Prüfung, sodass er jetzt als Fluglehrer-Assistent tätig werden kann;
+* An Thorsten Grether zum Motorflugschein;
+* An Elias Weber zum Segelflugschein und zu seiner hervorragenden Wertung als Aufsteiger in der Juniorenklasse.
 
 Danke: 
 -- 
- an alle Mitglieder für die Zusammenhalt und Engagement.
-{{< image path="/img/news/2019/award-2019/werkstatt.jpg" caption="Wenn zusammengepackt wird..." alt="" >}} 
+ An alle Mitglieder für den Zusammenhalt und ihr großes Engagement.
+{{< image path="/img/news/2019/award-2019/werkstatt.jpg" caption="Wenn gemeinsam angepackt wird..." alt="" >}} 
 <p></p>
