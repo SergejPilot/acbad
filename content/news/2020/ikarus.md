@@ -1,7 +1,7 @@
 ---
 date: "2020-04-25T14:00:00+02:00"
 draft: false
-title: "Zwangspause und Anschaffung vom ULA Ikarus C-42"
+title: "Zwangspause und Anschaffung einer Comco Ikarus C42B"
 slug: "ikarus"
 author: "Sergej Miller"
 HeaderImgUrl: "/img/news/2020/1/testflug.jpg"
@@ -13,17 +13,15 @@ Hallo da draußen, wir hoffen ihr erfreut euch alle bester Gesundheit und könnt
 {{< image path="/img/news/2020/1/ikarusC-42.jpg" caption="Comco Ikarus C-42B" alt="" >}} 
 
 <!--more-->
-Trotz sorgfältigen vorbereiteten und durchgeführten Frühjahrputz, Flugzeugwartung und bestens präparierten Flugzeugpark, sind wir alle wegen Corona-Krise beim besten Segelflugwetter entsprechend gesetzlichen Vorgaben erst auf dem Boden geblieben.
+Trotz sorgfältig vorbereitetem und durchgeführtem Frühjahrputz, umfangreicher Flugzeugwartung und bestens präpariertem Flugzeugpark sind wir alle wegen der Corona-Krise entsprechend den gesetzlichen Vorgaben bei bestem Segelflugwetter erst einmal auf dem Boden geblieben.
 
-#### Comco Ikarus C-42B
+#### Comco Ikarus C42B
 
-Aktuell ist auch unser Vereinsbetreib auf ein Minimum reduziert. Dennoch warten wir gespannt auf unseren Neuzugang.
-Mit dem Kauf des Ikarus C42B erweitern wir unsere Flotte um ein Ultraleichtflugzeug. Das Flugzeug (D-MENR) befindet sich bereit in der Endmontage und wird hoffentlich noch dieses Jahr über Baden-Baden zu erblicken sein. Oben ist ein Bild vom aktuellen Zustand im Werk. Wir erwarten sie gegen Ende Mai bei uns in der Halle.
-
+Aktuell ist deshalb auch unser Vereinsbetrieb auf ein Minimum reduziert. Dennoch warten wir gespannt auf unseren Neuzugang. Mit dem Kauf der Comco Ikarus C42B erweitern wir unsere Flotte um ein Ultraleichtflugzeug. Das Flugzeug, das das Kennzeichen D-MENR tragen wird, befindet sich bereits in der Endmontage und wird hoffentlich noch in diesem Jahr über Baden-Baden zu sehen sein. Das obige Bild zeigt den aktuellen Zustand unseres neuen ULs im Herstellerwerk. Wir erwarten die C42B gegen Ende Mai bei uns in Baden Oos.
 
 Bis bald und bleibt gesund.
 
-#### Noch ein paar Ausblicke auf die Saisonvorbereitung
+#### Hier noch ein paar Impressionen aus der Saisonvorbereitung
 
 {{< image path="/img/news/2020/1/fjp-0.jpg" caption="" alt="" >}} 
 {{< image path="/img/news/2020/1/fjp-1.jpg" caption="" alt="" >}} 
