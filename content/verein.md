@@ -29,7 +29,7 @@ In den 1990er Jahre beschloss die Stadt Baden-Baden die Schließung des Flugplat
 * Referent Segelflug: Jonas Weber
 * Referent Motorflug: Martin Metzger
 * Referent Clubanlage: Hubert Fischer
-* Jugendleiter: [Felix Stadthaus](mailto:jugend@aero-club.eu)
+* Jugendleiter: [Elias Weber](mailto:jugend@aero-club.eu)
 
 Unsicher, an wen Sie sich wenden sollen? Bei Fragen zur Ausbildung können Sie sich direkt an unseren Ausbildungsleiter wenden, anderenfalls kontaktieren sie uns:
 

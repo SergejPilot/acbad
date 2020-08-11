@@ -23,7 +23,7 @@ Mit großer Freude haben wir unsere lang ersehnte grundüberholte Schleppmaschin
 * Schriftführer: Karl Boyé
 
 #### Ausbildungsbereich
-Eine besondere Bereicherung für unseren Ausbildungsbereich sind unsere beiden angehenden Fluglehrer aus den eigenen Reihen des Vereins: Andi Oberle und Felix Stadthaus, die nach erfolgreicher Prüfung voraussichtlich bereits zu Beginn der Flugsaison im Schulungsbetrieb eingesetzt werden können. Dabei ist Andi Oberle noch zusätzlich noch als Werkstattleiter, Felix Stadthaus als Jugendleiter aktiv.
+Eine besondere Bereicherung für unseren Ausbildungsbereich sind unsere beiden angehenden Fluglehrer aus den eigenen Reihen des Vereins: Andi Oberle und Felix Stadthaus, die nach erfolgreicher Prüfung voraussichtlich bereits zu Beginn der Flugsaison im Schulungsbetrieb eingesetzt werden können. Dabei ist Andi Oberle noch zusätzlich als Werkstattleiter, Elias Weber als Jugendleiter aktiv.
 #### Bevorstehende Termine
 Beim Frühjahrsbriefing am 23. März 2019 müssen sich alle Piloten wieder mit den aktuellen Flugbetriebs-Regelungen vertraut machen und anschließend ihren jährlichen Checkflug mit Fluglehrer absolvieren. Danach beginnt der organisierte Flug- und Schulungsbetrieb an den Wochenenden und Feiertagen - gemeinsam mit Fliegergruppe Gaggenau. Zusätzlich ist ein Osterfluglager geplant.
 Am Sonntag, den 30. Juni 2019, findet zusammen mit Fliegergruppe Gaggenau unser Flugplatzfest als Tag der offenen Tür statt mit Rundflügen, Oldtimer-Flugzeugen, Modellflugzeugen, Informationen übers Fliegen, Kinderhüpfburg und natürlich reichhaltiger Gastronomie. Der Eintritt ist frei.
