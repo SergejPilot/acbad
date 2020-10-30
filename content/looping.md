@@ -9,16 +9,26 @@ Die direkt neben unserer Flugzeughalle gelegene "Gaststätte Looping" bietet sic
 
 Reservierungen und Kontaktaufnahme unter [+49 (7221) 61 61 6](tel:+49722161616).
 
-Öffnungszeiten
---------------
-***Bis 21.10.2019:***
+Ab dem 3.November geschlossen
+-----------------------------
+Auf Grund der aktuellen Situation von COVID-19 ist leider Restaurant im November bis auf weiteres geschlossen. 
+Es wird ein Abhol-und Lieferservice angeboten.
 
-Geöffnet ist ab Dienstag bis Donnerstag von 11:30 bis 14:00, ab Freitag bis Sonntag 17:00 - 23:00. 
 
-***Sonst:***
+Öffnungszeiten:
+---------------
+|                     |               |
+| :-------------------| -------------:|
+| Monntag             | Ruhetag       |
+| Dienstag - Freitag  | 11:30 - 14:00 |
+|                     | 17:00 - 23:00 |
+| Samstag             | 17:00 - 23:00 |
+| Sonntag             | 11:30 - 23:00 |
 
-Geöffnet ist ab Dienstag bis Freitag von 11:30 bis 14:30 und 17:00 - 23:00, samstags 17:00 - 23:00, sonntags durchgehend von 11:30 - 23:00. 
 
-**Montag ist Ruhetag.**
+<a href="/img/pages/looping/Speisekarte.pdf">Speisekarte</a>
+--------------------
+
+
 {{< image path="/img/pages/looping/looping.jpg" caption="Ein Blick auf die Terrasse von der Gaststätte Looping." alt="Gaststätte Looping" >}}
 
