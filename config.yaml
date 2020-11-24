@@ -96,8 +96,8 @@ menu:
 
     - Name: "Veranstaltungen"                             
       Weight: 20                                 
-      Identifier: "events"                       
-      URL: "/events/"                            
+      Identifier: "archived_events"                       
+      URL: "/archived_events/"                            
       Parent: "archive"  
 
     - Name: "Presseberichte"

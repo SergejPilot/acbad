@@ -45,9 +45,12 @@ Als Fördermitglied unterstützen Sie den Aero-Club Baden-Baden e.V. und förder
 
 Oft findet sich für Sie als Fördermitglied auch ein Vereinspilot, der Sie (privat) auf einen Kostenteilungsflug mitnimmt (d.h. die Kosten für den Flug teilen Sie sich dann mit Ihrem Piloten).
 
-Einführungsflüge
+Einführungsflüge 
 ----------------
 Sie wollen das Fliegen erst einmal unverbindlich ausprobieren? Dann ist ein Einführungsflug oder Schnupperkurs genau das Richtige für Sie!
+
+Hier können Sie das  <a href="/img/trial_course/AEC_trial_course.pdf">Formular für die Einführungsflüge</a> runterladen.
+
 
 | Leistung                                |    Preis |
 | :-------------------------------------  | -------: |
