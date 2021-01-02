@@ -13,27 +13,6 @@ Vereinsmitgliedschaft
 Als Mitglied zahlt man einen fixen jährlichen Betrag sowie Gebühren für die einzelnen Flüge.
 
 Wird man Neumitglied, entrichtet man noch eine Aufnahmegebühr und löst mindestens ein Flugzeug (meist den Schulungsdoppelsitzer, eine ASK 21) ab - d.h. man zahlt einen bestimmten Betrag und darf dieses Flugzeug dann unbegrenzt nutzen.
-
-| Beschreibung              			| Jugendliche (bis 21 J.) | Erwachsene |
-| :--------------------------------		| :--------------------:  | :--------: |
-| Aufnahmegebühr (einmalig) 			| 200,00 €                | 400,00 €   |
-| Jahresbeitrag Aero-Club 				| 110,00 €                | 220,00 €   |
-| Pauschalbeitrag extern				|  80,00 €                | 120,00 €   |
-| Versicherungsumlage					|  50,00 €                |  50,00 €   |
-| Flugplatz Nutzungsgebühr				| 100,00 €                | 100,00 €   |
-| 										| 						  |  		   |
-| Summe jährliche Kostenpauschalen		| 340,00 €                | 490,00 €   |
-
-Sie zahlen die folgenden Gebühren pro Start:
-
-| Startart                 | Gebühr  |
-| :----------------------- | ------: |
-| Windenstart              |  5,50 € |
-| Flugzeugschlepp 600 m    | 18,00 € |
-| Flugzeugschlepp 800 m    | 24,00 € |
-| Flugzeugschlepp 1000 m   | 30,00 € |
-| Flugzeugschlepp 1200 m   | 36,00 € |
-
 Um diese geringen Kosten zu ermöglichen, beteiligen sich alle Mitglieder an den anfallenden Arbeiten.
 
 Fördermitgliedschaft

@@ -23,9 +23,9 @@ Es wird ein Abhol-und Lieferservice angeboten.
 | :-------------------| -------------:|
 | Monntag             | Ruhetag       |
 | Dienstag - Freitag  | 11:30 - 14:00 |
-|                     | 17:00 - 23:00 |
-| Samstag             | 17:00 - 23:00 |
-| Sonntag             | 11:30 - 23:00 |
+|                     | 17:00 - 20:00 |
+| Samstag             | 17:00 - 20:00 |
+| Sonntag             | 11:30 - 20:00 |
 
 
 <a href="/img/pages/looping/Speisekarte.pdf">Speisekarte</a>
