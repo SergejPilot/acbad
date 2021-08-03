@@ -8,10 +8,18 @@ description: "Events um den  Flugplatz und  Aeroclub"
 Hier gibt es Informationen zu aktuellen Veranstaltungen rund um den Flugplatz und den Aero-Club.  
 ### 
 -------
-* [19.09.2020 - 24.09.2020, Zeppelin-Rundflüge am Flugplatz Baden-Oos.](https://bnn.de/lokales/baden-baden/grosse-buehne-fuer-die-riesenzigarre-auf-rundflug-mit-dem-zeppelin)
-* [12.09.2020, Samstag, 11:00 - 15:00, Schnupper-Segelfliegen für Kinder von 8-16 Jahren, Flugplatz Baden-Oos](/presseberichte/bt_2020_09_15) 
 
-{{< image path="/img/news/2020/zeppelin/z4.jpg" caption="Zeppelin am Flugplatz Baden-Oos." alt="" >}} 
+* 6. bis 10. September 2021, Schulungs- und Fluglager, Flugplatz Baden-Oos.
+* 11 September 2021, Samstag, 11:00 - 15:00, Schnupper-Segelfliegen für Kinder von 8-16 Jahren, Flugplatz Baden-Oos.
+
+Hier sind die beiden Links für die Anmeldung beim Sommer-Ferienprogramm der AWO Baden-Baden:
+
+[Vormittagsgruppe – derzeit noch 4 von 15 Plätzen frei](https://www.unser-ferienprogramm.de/awo-baden-baden/veranstaltung.php?id=21968&s=&a=0&k=)
+
+[Nachmittagsgruppe – derzeit noch 9 von 15 Plätzen frei](https://www.unser-ferienprogramm.de/awo-baden-baden/veranstaltung.php?id=21969&s=&a=0&k=)
+
+
+
 
 
 
