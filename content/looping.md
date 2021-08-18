@@ -14,9 +14,9 @@ Bestellungen können ab 11:00 Uhr unter der Telefon-Nummer [+49 (7221) 61 61 6](
 | :-------------------| -------------:|
 | Monntag             | Ruhetag       |
 | Dienstag - Freitag  | 11:30 - 14:00 |
-|                     | 17:00 - 20:00 |
-| Samstag             | 17:00 - 20:00 |
-| Sonntag             | 11:30 - 20:00 |
+|                     | 17:00 - 22:00 |
+| Samstag             | 17:00 - 22:00 |
+| Sonntag             | 11:30 - 22:00 |
 
 
 <a href="/img/pages/looping/Speisekarte.pdf">Speisekarte</a>
