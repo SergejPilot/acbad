@@ -5,7 +5,7 @@ title: "Gaststätte Looping"
 HeaderImgUrl: "/img/header/header_looping.jpg"
 description: "Telefonnummer und Öffnungszeiten der Gaststätte Looping beim Flugplatz Baden-Oos (neben dem Aero-Club Baden-Baden e.V.)."
 ---
- 
+
 Bestellungen können ab 11:00 Uhr unter der Telefon-Nummer [+49 (7221) 61 61 6](tel:+49722161616) aufgegeben werden.
 
 Öffnungszeiten:
