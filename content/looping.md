@@ -12,7 +12,7 @@ Bestellungen können ab 11:00 Uhr unter der Telefon-Nummer [+49 (7221) 61 61 6](
 ---------------
 |                     |               |
 | :-------------------| -------------:|
-| Monntag             | Ruhetag       |
+| Montag              | Ruhetag       |
 | Dienstag - Freitag  | 11:30 - 14:00 |
 |                     | 17:00 - 22:00 |
 | Samstag             | 17:00 - 22:00 |
