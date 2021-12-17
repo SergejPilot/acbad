@@ -28,15 +28,16 @@ Einführungsflüge
 ----------------
 Sie wollen das Fliegen erst einmal unverbindlich ausprobieren? Dann ist ein Einführungsflug oder Schnupperkurs genau das Richtige für Sie!
 
-Hier können Sie das  <a href="/img/trial_course/AEC_trial_course.pdf">Formular für die Einführungsflüge</a> runterladen.
+Hier können Sie das  <a href="/img/trial_course/AEC_trial_course_2022.pdf">Formular für die Einführungsflüge</a> runterladen.
 
 
 | Leistung                                |    Preis |
 | :-------------------------------------  | -------: |
-| Einführungsflug Windenstart             |  30,00 € |
-| Einführungsflug 25 min.                 |  65,00 € |
-| Einführungsflug 50 min. (oder 2 Starts) | 120,00 € |
-| Schnupperkurs (3 Flüge)                 | 120,00 € |
+| Segelflug Windenstart                   |  30,00 € |
+| Segelflug Flugzeugschlepp 25 min.       |  70,00 € |
+| PA-18 oder Icarus C42 30 min.           |  80,00 € |
+| PA-18 oder Icarus C42 60 min.           | 160,00 € |
+| Schnupperkurs (3 Flüge)                 | 200,00 € |
 
 Der Schnupperkurs umfasst 1 Flugzeugschlepp und 2 Windenstarts mit theoretischer und praktischer Einweisung.
 
